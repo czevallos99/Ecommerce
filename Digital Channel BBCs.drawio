@@ -1,6 +1,6 @@
-<mxfile host="www.draw.io" modified="2019-11-05T17:46:16.033Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.87 Safari/537.36" etag="_KaJCE_A_kx8q_ESuNpb" version="12.2.0" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-11-05T20:30:40.020Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.87 Safari/537.36" etag="vtCnCoIvOcxp5p1SvjAE" version="12.2.0" type="github" pages="1">
   <diagram id="y0MvCqDMI1tPlNCTdOtr" name="Page-1">
-    <mxGraphModel dx="1261" dy="599" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1088" dy="436" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
@@ -135,8 +135,8 @@
         <mxCell id="YrrHf_Wgj3N-O0l7jDWq-2" value="Invoice cada 2 semanas" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;" parent="1" vertex="1">
           <mxGeometry x="380" y="230" width="150" height="20" as="geometry"/>
         </mxCell>
-        <mxCell id="P5arYo4wm9-XKqG1Q-lO-3" value="Digital Channel&lt;br&gt;(Type of Delare with Consignation)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF9933;" vertex="1" parent="1">
-          <mxGeometry x="605" y="779" width="120" height="60" as="geometry"/>
+        <mxCell id="P5arYo4wm9-XKqG1Q-lO-3" value="Dealer Digital Channel&lt;br&gt;(Type of Delare with Consignation)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF9933;" vertex="1" parent="1">
+          <mxGeometry x="597.5" y="779" width="135" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="P5arYo4wm9-XKqG1Q-lO-7" value="Store" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="425" y="779" width="120" height="60" as="geometry"/>
@@ -165,8 +165,8 @@
         <mxCell id="P5arYo4wm9-XKqG1Q-lO-44" value="BCCs" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="505" y="646" width="120" height="60" as="geometry"/>
         </mxCell>
-        <mxCell id="P5arYo4wm9-XKqG1Q-lO-48" value="Export" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;" vertex="1" parent="1">
-          <mxGeometry x="446" y="706" width="50" height="20" as="geometry"/>
+        <mxCell id="P5arYo4wm9-XKqG1Q-lO-48" value="Export/consignation" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;" vertex="1" parent="1">
+          <mxGeometry x="400" y="712.5" width="120" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="P5arYo4wm9-XKqG1Q-lO-49" value="Sales" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;" vertex="1" parent="1">
           <mxGeometry x="690" y="646" width="50" height="20" as="geometry"/>
@@ -214,9 +214,6 @@
             <mxPoint x="700.1428571428573" y="902" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="P5arYo4wm9-XKqG1Q-lO-73" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="P5arYo4wm9-XKqG1Q-lO-60" target="P5arYo4wm9-XKqG1Q-lO-61">
-          <mxGeometry relative="1" as="geometry"/>
-        </mxCell>
         <mxCell id="P5arYo4wm9-XKqG1Q-lO-60" value="&lt;div&gt;- Postpaid&lt;/div&gt;&lt;div&gt;- Prepaid &lt;br&gt;&lt;/div&gt;" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;" vertex="1" parent="1">
           <mxGeometry x="592" y="886" width="70" height="30" as="geometry"/>
         </mxCell>
@@ -225,35 +222,35 @@
         </mxCell>
         <mxCell id="P5arYo4wm9-XKqG1Q-lO-64" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="284.2857142857142" y="864.7142857142858" as="sourcePoint"/>
+            <mxPoint x="284.2857142857142" y="879.7142857142858" as="sourcePoint"/>
             <Array as="points">
-              <mxPoint x="304" y="864"/>
-              <mxPoint x="304" y="864"/>
+              <mxPoint x="304" y="879"/>
+              <mxPoint x="304" y="879"/>
             </Array>
-            <mxPoint x="324.2857142857142" y="864.7142857142858" as="targetPoint"/>
+            <mxPoint x="324.2857142857142" y="879.7142857142858" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
         <mxCell id="P5arYo4wm9-XKqG1Q-lO-65" value="&lt;div&gt;- Postpaid&lt;/div&gt;&lt;div&gt;- Prepaid &lt;br&gt;&lt;/div&gt;" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;" vertex="1" parent="1">
-          <mxGeometry x="216" y="848" width="70" height="30" as="geometry"/>
+          <mxGeometry x="216" y="863" width="70" height="30" as="geometry"/>
         </mxCell>
         <mxCell id="P5arYo4wm9-XKqG1Q-lO-66" value="Commision" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;" vertex="1" parent="1">
-          <mxGeometry x="331" y="853" width="80" height="20" as="geometry"/>
+          <mxGeometry x="331" y="868" width="80" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="P5arYo4wm9-XKqG1Q-lO-67" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="478.57142857142867" y="863.6428571428573" as="sourcePoint"/>
+            <mxPoint x="473.57142857142867" y="878.6428571428573" as="sourcePoint"/>
             <Array as="points">
-              <mxPoint x="498" y="863.5"/>
-              <mxPoint x="498" y="863.5"/>
+              <mxPoint x="493" y="878.5"/>
+              <mxPoint x="493" y="878.5"/>
             </Array>
-            <mxPoint x="518.5714285714287" y="863.6428571428573" as="targetPoint"/>
+            <mxPoint x="513.5714285714287" y="878.6428571428573" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
         <mxCell id="P5arYo4wm9-XKqG1Q-lO-68" value="&lt;div&gt;- Postpaid&lt;/div&gt;&lt;div&gt;- Prepaid &lt;br&gt;&lt;/div&gt;" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;" vertex="1" parent="1">
-          <mxGeometry x="410" y="847.5" width="70" height="30" as="geometry"/>
+          <mxGeometry x="405" y="862.5" width="70" height="30" as="geometry"/>
         </mxCell>
         <mxCell id="P5arYo4wm9-XKqG1Q-lO-69" value="Commision" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;" vertex="1" parent="1">
-          <mxGeometry x="525" y="852.5" width="80" height="20" as="geometry"/>
+          <mxGeometry x="520" y="867.5" width="80" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="P5arYo4wm9-XKqG1Q-lO-70" value="Anypay" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;" vertex="1" parent="1">
           <mxGeometry x="910" y="940" width="60" height="20" as="geometry"/>
@@ -263,6 +260,12 @@
             <mxPoint x="935" y="912" as="sourcePoint"/>
             <mxPoint x="935" y="941" as="targetPoint"/>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="P5arYo4wm9-XKqG1Q-lO-75" value="Sell customer price" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;" vertex="1" parent="1">
+          <mxGeometry x="226" y="842.5" width="120" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="P5arYo4wm9-XKqG1Q-lO-76" value="Sell customer price" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;" vertex="1" parent="1">
+          <mxGeometry x="415.5" y="842.5" width="120" height="20" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
