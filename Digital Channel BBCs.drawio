@@ -1,6 +1,6 @@
-<mxfile host="www.draw.io" modified="2019-11-05T17:24:18.313Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.87 Safari/537.36" etag="XlHIgbQ0k8GNz-Ef-TTI" version="12.2.0" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-11-05T17:46:16.033Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.87 Safari/537.36" etag="_KaJCE_A_kx8q_ESuNpb" version="12.2.0" type="github" pages="1">
   <diagram id="y0MvCqDMI1tPlNCTdOtr" name="Page-1">
-    <mxGraphModel dx="1554" dy="623" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1261" dy="599" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
@@ -201,8 +201,8 @@
         <mxCell id="P5arYo4wm9-XKqG1Q-lO-57" value="&lt;div&gt;- Postpaid&lt;/div&gt;&lt;div&gt;- Prepaid &lt;br&gt;&lt;/div&gt;" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;" vertex="1" parent="1">
           <mxGeometry x="795" y="891" width="70" height="30" as="geometry"/>
         </mxCell>
-        <mxCell id="P5arYo4wm9-XKqG1Q-lO-58" value="Anypay" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;" vertex="1" parent="1">
-          <mxGeometry x="910" y="896" width="50" height="20" as="geometry"/>
+        <mxCell id="P5arYo4wm9-XKqG1Q-lO-58" value="Comision" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;" vertex="1" parent="1">
+          <mxGeometry x="910" y="896" width="70" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="P5arYo4wm9-XKqG1Q-lO-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
@@ -213,6 +213,9 @@
             </Array>
             <mxPoint x="700.1428571428573" y="902" as="targetPoint"/>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="P5arYo4wm9-XKqG1Q-lO-73" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="P5arYo4wm9-XKqG1Q-lO-60" target="P5arYo4wm9-XKqG1Q-lO-61">
+          <mxGeometry relative="1" as="geometry"/>
         </mxCell>
         <mxCell id="P5arYo4wm9-XKqG1Q-lO-60" value="&lt;div&gt;- Postpaid&lt;/div&gt;&lt;div&gt;- Prepaid &lt;br&gt;&lt;/div&gt;" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;" vertex="1" parent="1">
           <mxGeometry x="592" y="886" width="70" height="30" as="geometry"/>
@@ -251,6 +254,15 @@
         </mxCell>
         <mxCell id="P5arYo4wm9-XKqG1Q-lO-69" value="Commision" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;" vertex="1" parent="1">
           <mxGeometry x="525" y="852.5" width="80" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="P5arYo4wm9-XKqG1Q-lO-70" value="Anypay" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;" vertex="1" parent="1">
+          <mxGeometry x="910" y="940" width="60" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="P5arYo4wm9-XKqG1Q-lO-74" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="935" y="912" as="sourcePoint"/>
+            <mxPoint x="935" y="941" as="targetPoint"/>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
