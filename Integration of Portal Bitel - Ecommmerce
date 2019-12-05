@@ -1,4 +1,4 @@
-<mxfile modified="2019-12-05T20:23:26.287Z" host="www.draw.io" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="vLycWVATXPfy0PYmKwL-" version="12.3.7" type="github" pages="1">
+<mxfile modified="2019-12-05T20:24:42.903Z" host="www.draw.io" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="pgIeXycpzoeCuv6cl-p_" version="12.3.7" type="github" pages="1">
   <diagram id="zrTYmpbUFzlNUt7ZSy_L" name="Page-1">
     <mxGraphModel dx="1554" dy="623" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -849,6 +849,15 @@
         </mxCell>
         <mxCell id="MWfG020m9ftYQXkvVQxk-156" value="&lt;b&gt;Agente&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;autosize=1;" vertex="1" parent="1">
           <mxGeometry x="1542" y="3194.5" width="60" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="MWfG020m9ftYQXkvVQxk-157" value="&lt;b&gt;Chat Inciial&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="108" y="2857" width="80" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="MWfG020m9ftYQXkvVQxk-158" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="157" y="2868" width="40" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="MWfG020m9ftYQXkvVQxk-159" value="&lt;b&gt;Chat Menu&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="381" y="2793" width="80" height="20" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
