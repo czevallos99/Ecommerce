@@ -1,4 +1,4 @@
-<mxfile modified="2020-01-07T17:37:44.608Z" host="www.draw.io" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="t40GynStt0PCBejH6avy" version="12.5.0" type="github">
+<mxfile modified="2020-01-07T17:41:11.878Z" host="www.draw.io" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="Ntpi3Uz1e9l1qj5lrGzD" version="12.5.0" type="github">
   <diagram id="fyOdLIN1hb5syHAnH7Yb" name="Page-1">
     <mxGraphModel dx="1673" dy="553" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -862,8 +862,8 @@
         <mxCell id="D8cVOiHoFaqaRdm_fzn0-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.407;entryY=0.454;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="D8cVOiHoFaqaRdm_fzn0-11" target="D8cVOiHoFaqaRdm_fzn0-18">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
-        <mxCell id="D8cVOiHoFaqaRdm_fzn0-32" value="&lt;b&gt;Export handset on demand&lt;/b&gt;" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;" vertex="1" parent="1">
-          <mxGeometry x="1147" y="3390" width="170" height="20" as="geometry"/>
+        <mxCell id="D8cVOiHoFaqaRdm_fzn0-32" value="&lt;b&gt;Sell chips and handset in Store&lt;/b&gt;" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;" vertex="1" parent="1">
+          <mxGeometry x="1147" y="3390" width="190" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="D8cVOiHoFaqaRdm_fzn0-33" value="Dealer CUS" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1178" y="3351.5" width="80" height="34" as="geometry"/>
