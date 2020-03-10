@@ -1,6 +1,6 @@
-<mxfile host="www.draw.io" modified="2020-03-10T20:43:41.129Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:73.0) Gecko/20100101 Firefox/73.0" version="12.8.2" etag="jG6nB8AQYqlprhjAui_E" type="github">
+<mxfile host="www.draw.io" modified="2020-03-10T20:53:13.001Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:73.0) Gecko/20100101 Firefox/73.0" version="12.8.2" etag="C2k495AUEKMq02kfiEDy" type="github">
   <diagram id="0" name="Page-1">
-    <mxGraphModel dx="1088" dy="443" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1280" dy="521" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -85,7 +85,7 @@
         <mxCell id="XZsWqDLy3fhN5G-KVDdX-28" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="590" y="430" width="220" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="XZsWqDLy3fhN5G-KVDdX-29" value="&lt;b&gt;CAB ATE 1&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="XZsWqDLy3fhN5G-KVDdX-29" value="&lt;u&gt;&lt;b&gt;CAB ATE 1&lt;/b&gt;&lt;/u&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="595" y="430" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="XZsWqDLy3fhN5G-KVDdX-30" value="&lt;div&gt;Direccion :&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -102,6 +102,12 @@
         </mxCell>
         <mxCell id="XZsWqDLy3fhN5G-KVDdX-34" value="&lt;div&gt;Dom: 10:00 - 22:00 &lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Feriado. 10:00 - 22:00&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="563" y="560" width="220" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="XZsWqDLy3fhN5G-KVDdX-35" value="&lt;b&gt;CENTROS DE ATENCION&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCFF99;" vertex="1" parent="1">
+          <mxGeometry x="140" y="130" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XZsWqDLy3fhN5G-KVDdX-36" value="PUNTOS DE PAGO" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;" vertex="1" parent="1">
+          <mxGeometry x="305" y="130" width="145" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
