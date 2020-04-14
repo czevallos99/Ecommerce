@@ -1,4 +1,4 @@
-<mxfile modified="2020-04-14T13:47:08.594Z" host="app.diagrams.net" agent="5.0 (Windows)" etag="Y3n_JaAVi60zIjAheg8O" version="12.9.12" type="github">
+<mxfile modified="2020-04-14T13:54:55.352Z" host="app.diagrams.net" agent="5.0 (Windows)" etag="TCXy1sn1KP6hxSizhl49" version="12.9.12" type="github">
   <diagram id="b25491b9-4ba0-4d1b-cfaa-5f1ff10acd85" name="Page-1">
     <mxGraphModel dx="2556" dy="1150" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
       <root>
@@ -977,7 +977,7 @@
         <mxCell id="ToW5pHNMVX-uKTsE8e8B-227" value="&lt;b&gt;Dashboard&amp;nbsp;&lt;br&gt;eCommerce&lt;/b&gt;&lt;br&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="1900.9994117647059" y="1292.5" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="ToW5pHNMVX-uKTsE8e8B-229" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;eCommerce Fase 4 - Todo el Peru Plan&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;" vertex="1" parent="1">
+        <mxCell id="ToW5pHNMVX-uKTsE8e8B-229" value="eCOMMERCE FOR PREPAIID ABRIL" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="1932.9994117647059" y="1105.5" width="297" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ToW5pHNMVX-uKTsE8e8B-234" value="Ordenes Confirmadas&lt;br&gt;Prepago&lt;br&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;" vertex="1" parent="1">
@@ -1099,7 +1099,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ToW5pHNMVX-uKTsE8e8B-294" value="&lt;div&gt;Validation of payment&lt;/div&gt;&lt;div&gt;on dashboard&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;" vertex="1" parent="1">
-          <mxGeometry x="2107.5" y="1446" width="140" height="20" as="geometry" />
+          <mxGeometry x="2111" y="1445.63" width="140" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ToW5pHNMVX-uKTsE8e8B-296" style="edgeStyle=none;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;strokeColor=#9933FF;fillColor=#33FFFF;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.853;exitY=1.096;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="ToW5pHNMVX-uKTsE8e8B-218" target="ToW5pHNMVX-uKTsE8e8B-215">
           <mxGeometry relative="1" as="geometry">
@@ -1137,6 +1137,39 @@
         </mxCell>
         <mxCell id="ToW5pHNMVX-uKTsE8e8B-302" value="&lt;b&gt;Validation of delivery by Picture&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="1941" y="1900" width="123" height="36.5" as="geometry" />
+        </mxCell>
+        <mxCell id="ToW5pHNMVX-uKTsE8e8B-303" value="&lt;b&gt;1&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="1894" y="1126.5" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ToW5pHNMVX-uKTsE8e8B-305" value="&lt;b&gt;2&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="2053" y="1223.5" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ToW5pHNMVX-uKTsE8e8B-306" value="3" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="2036" y="1350" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ToW5pHNMVX-uKTsE8e8B-307" value="4" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="2167.5" y="1350" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ToW5pHNMVX-uKTsE8e8B-308" value="5" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="1896" y="1360" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ToW5pHNMVX-uKTsE8e8B-309" value="6" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="1960.5" y="1441" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ToW5pHNMVX-uKTsE8e8B-310" value="7" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="2233.5" y="1456" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ToW5pHNMVX-uKTsE8e8B-311" value="8" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="2081.5" y="1488.5" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ToW5pHNMVX-uKTsE8e8B-312" value="9" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="2042.5" y="1597" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ToW5pHNMVX-uKTsE8e8B-313" value="10" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="2122" y="1593.5" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ToW5pHNMVX-uKTsE8e8B-315" value="11" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="2116" y="1870" width="30" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
