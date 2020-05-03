@@ -1,4 +1,4 @@
-<mxfile modified="2020-05-03T16:04:55.795Z" host="app.diagrams.net" agent="5.0 (Windows)" etag="Fw-TdpJMVaFhpFsEaSwt" version="13.0.6" type="github">
+<mxfile modified="2020-05-03T16:06:15.287Z" host="app.diagrams.net" agent="5.0 (Windows)" etag="eGMwaMwIDT4ygoPgiGfX" version="13.0.6" type="github">
   <diagram id="a8ff440f-91d0-836d-069a-c04da7e81235" name="Page-1">
     <mxGraphModel dx="2925" dy="893" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
       <root>
@@ -470,8 +470,8 @@
         <mxCell id="ig0vP3UjA5AoyJBOKrrB-39" value="Cient" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="shSy23RzKir5_253uZAU-41">
           <mxGeometry x="1395" y="75" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ig0vP3UjA5AoyJBOKrrB-44" value="&lt;div&gt;Download &lt;br&gt;&lt;/div&gt;&lt;div&gt;My Bitel&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="shSy23RzKir5_253uZAU-41">
-          <mxGeometry x="1241" y="70" width="100" height="50" as="geometry" />
+        <mxCell id="ig0vP3UjA5AoyJBOKrrB-44" value="&lt;div&gt;Download and register&amp;nbsp; &lt;br&gt;&lt;/div&gt;&lt;div&gt;My Bitel(Any Network)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="shSy23RzKir5_253uZAU-41">
+          <mxGeometry x="1200" y="70" width="141" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ig0vP3UjA5AoyJBOKrrB-46" value="&lt;div&gt;Download &lt;br&gt;&lt;/div&gt;&lt;div&gt;My Bitel&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="shSy23RzKir5_253uZAU-41">
           <mxGeometry x="1069" y="70" width="100" height="50" as="geometry" />
