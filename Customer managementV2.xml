@@ -1,4 +1,4 @@
-<mxfile modified="2020-05-03T14:38:38.367Z" host="app.diagrams.net" agent="5.0 (Windows)" etag="iiCcyvw8-cc6VCPElEPs" version="13.0.4" type="github">
+<mxfile modified="2020-05-03T14:41:32.792Z" host="app.diagrams.net" agent="5.0 (Windows)" etag="UhDx3b0aC-YWiZhS9IOC" version="13.0.4" type="github">
   <diagram id="a8ff440f-91d0-836d-069a-c04da7e81235" name="Page-1">
     <mxGraphModel dx="2676" dy="821" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
       <root>
@@ -531,11 +531,20 @@
             <mxPoint x="490" y="795" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ddzxHF_3IAux-Gj7ND-E-54" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;BCCs / CM&lt;/b&gt;&lt;br&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;br&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;br&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;- Input Order Paid&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt; &amp;gt;&amp;gt;&amp;gt; Status Paid&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- nput Order Paid &amp;gt;&amp;gt;&amp;gt; Status Paid&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="266" y="1290" width="365" height="275" as="geometry" />
+        <mxCell id="ddzxHF_3IAux-Gj7ND-E-57" value="BCCs/ CM" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
+          <mxGeometry x="490" y="998" width="210" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="ddzxHF_3IAux-Gj7ND-E-55" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="ddzxHF_3IAux-Gj7ND-E-54">
-          <mxGeometry x="259.74418604651163" y="44.42307692307693" width="40" height="20" as="geometry" />
+        <mxCell id="ddzxHF_3IAux-Gj7ND-E-58" value="- Order already Paid" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="ddzxHF_3IAux-Gj7ND-E-57">
+          <mxGeometry y="26" width="210" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="ddzxHF_3IAux-Gj7ND-E-59" value="- Order Payment pending" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="ddzxHF_3IAux-Gj7ND-E-57">
+          <mxGeometry y="52" width="210" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="ddzxHF_3IAux-Gj7ND-E-60" value="- Order Payment pending" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="ddzxHF_3IAux-Gj7ND-E-57">
+          <mxGeometry y="78" width="210" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="ddzxHF_3IAux-Gj7ND-E-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="crnUpGYSJKcYLJaRzDnw-92" target="ddzxHF_3IAux-Gj7ND-E-57">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
