@@ -1,4 +1,4 @@
-<mxfile modified="2020-05-03T14:27:23.585Z" host="app.diagrams.net" agent="5.0 (Windows)" etag="QU9Pbcj3SYMz9VmCmzTR" version="13.0.4" type="github">
+<mxfile modified="2020-05-03T14:34:04.019Z" host="app.diagrams.net" agent="5.0 (Windows)" etag="5v_2pRit_lNg3U3przvy" version="13.0.4" type="github">
   <diagram id="a8ff440f-91d0-836d-069a-c04da7e81235" name="Page-1">
     <mxGraphModel dx="2128" dy="575" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
       <root>
@@ -364,14 +364,23 @@
         <mxCell id="crnUpGYSJKcYLJaRzDnw-91" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="XYQ_fg-h_kxq3qyG66zI-79" vertex="1">
           <mxGeometry x="526" y="125" width="30" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="crnUpGYSJKcYLJaRzDnw-92" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Payment Section (Partner)&lt;br&gt;&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;&lt;/b&gt;&lt;br&gt;&lt;/u&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="XYQ_fg-h_kxq3qyG66zI-79" vertex="1">
-          <mxGeometry x="620" y="140" width="210" height="84" as="geometry" />
+        <mxCell id="ddzxHF_3IAux-Gj7ND-E-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.64;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="XYQ_fg-h_kxq3qyG66zI-79" source="crnUpGYSJKcYLJaRzDnw-92" target="ddzxHF_3IAux-Gj7ND-E-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="crnUpGYSJKcYLJaRzDnw-92" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Payment Section (Partner)&lt;br&gt;&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;&lt;/b&gt;&lt;br&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="XYQ_fg-h_kxq3qyG66zI-79" vertex="1">
+          <mxGeometry x="620" y="107" width="210" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="ddzxHF_3IAux-Gj7ND-E-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="XYQ_fg-h_kxq3qyG66zI-79" source="crnUpGYSJKcYLJaRzDnw-94" target="ddzxHF_3IAux-Gj7ND-E-41">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="crnUpGYSJKcYLJaRzDnw-94" value="&#xa;Online PaymentDebit/ Credit Card&#xa;" style="whiteSpace=wrap;" parent="XYQ_fg-h_kxq3qyG66zI-79" vertex="1">
-          <mxGeometry x="630" y="175" width="103" height="43" as="geometry" />
+          <mxGeometry x="630" y="137" width="103" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="ddzxHF_3IAux-Gj7ND-E-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="XYQ_fg-h_kxq3qyG66zI-79" source="crnUpGYSJKcYLJaRzDnw-95" target="ddzxHF_3IAux-Gj7ND-E-42">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="crnUpGYSJKcYLJaRzDnw-95" value="&#xa;Pay in Cash/Agents&#xa;" style="whiteSpace=wrap;" parent="XYQ_fg-h_kxq3qyG66zI-79" vertex="1">
-          <mxGeometry x="743" y="180" width="80" height="33" as="geometry" />
+          <mxGeometry x="743" y="142" width="80" height="33" as="geometry" />
         </mxCell>
         <mxCell id="crnUpGYSJKcYLJaRzDnw-102" value="Si" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="XYQ_fg-h_kxq3qyG66zI-79" vertex="1">
           <mxGeometry x="580" y="145" width="30" height="20" as="geometry" />
@@ -380,6 +389,21 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="417" y="150" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="ddzxHF_3IAux-Gj7ND-E-41" value="&lt;div&gt;Payment Done&lt;u&gt;&lt;br&gt;&lt;/u&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="XYQ_fg-h_kxq3qyG66zI-79">
+          <mxGeometry x="651.5" y="202" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ddzxHF_3IAux-Gj7ND-E-42" value="Bank Code" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="XYQ_fg-h_kxq3qyG66zI-79">
+          <mxGeometry x="749.5" y="202" width="67" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ddzxHF_3IAux-Gj7ND-E-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="XYQ_fg-h_kxq3qyG66zI-79" source="ddzxHF_3IAux-Gj7ND-E-45" target="ddzxHF_3IAux-Gj7ND-E-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ddzxHF_3IAux-Gj7ND-E-45" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Confirmation Order&lt;/b&gt;&lt;/u&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;# eCommerce Order&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="XYQ_fg-h_kxq3qyG66zI-79">
+          <mxGeometry x="860" y="145" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ddzxHF_3IAux-Gj7ND-E-46" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Tracking Order&lt;/b&gt;&lt;/u&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Change Status&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="XYQ_fg-h_kxq3qyG66zI-79">
+          <mxGeometry x="1010" y="145" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="XYQ_fg-h_kxq3qyG66zI-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;entryX=0.25;entryY=1;" parent="1" target="XYQ_fg-h_kxq3qyG66zI-54" edge="1">
           <mxGeometry relative="1" as="geometry">
