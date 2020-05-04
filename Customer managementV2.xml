@@ -1,6 +1,6 @@
-<mxfile modified="2020-05-04T20:19:43.501Z" host="app.diagrams.net" agent="5.0 (Windows)" etag="bXH9RbcVW7Hxkmg9k6wZ" version="13.0.6" type="github">
+<mxfile modified="2020-05-04T20:35:39.772Z" host="app.diagrams.net" agent="5.0 (Windows)" etag="U2ZrFJKzrjBeaaMaYcts" version="13.0.6" type="github">
   <diagram id="a8ff440f-91d0-836d-069a-c04da7e81235" name="Page-1">
-    <mxGraphModel dx="2925" dy="893" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1826" dy="420" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -352,11 +352,8 @@
         <mxCell id="ddzxHF_3IAux-Gj7ND-E-45" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Confirmation Order&lt;/b&gt;&lt;/u&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- # Order Paid&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;br&gt;&lt;/div&gt;&lt;div&gt;- # Prder pending paid&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="XYQ_fg-h_kxq3qyG66zI-79" vertex="1">
           <mxGeometry x="920" y="200" width="149" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="ddzxHF_3IAux-Gj7ND-E-46" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Tracking Order&lt;/b&gt;&lt;/u&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Change Status&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="XYQ_fg-h_kxq3qyG66zI-79" vertex="1">
-          <mxGeometry x="1169" y="210" width="120" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="ig0vP3UjA5AoyJBOKrrB-79" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="ddzxHF_3IAux-Gj7ND-E-46">
-          <mxGeometry x="63" y="23" width="40" height="20" as="geometry" />
+        <mxCell id="ddzxHF_3IAux-Gj7ND-E-46" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;Tracking Order&lt;/b&gt;&lt;/u&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Change Status&lt;/div&gt;&lt;div&gt;(Reason Code)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="XYQ_fg-h_kxq3qyG66zI-79" vertex="1">
+          <mxGeometry x="1179" y="205" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ig0vP3UjA5AoyJBOKrrB-64" value="2" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="XYQ_fg-h_kxq3qyG66zI-79">
           <mxGeometry x="170" y="41" width="20" height="20" as="geometry" />
@@ -536,7 +533,7 @@
         <mxCell id="ig0vP3UjA5AoyJBOKrrB-48" value="SCAN FINGERPRINT" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="shSy23RzKir5_253uZAU-41">
           <mxGeometry x="829" y="70" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="ig0vP3UjA5AoyJBOKrrB-50" value="&lt;div&gt;Activation of &lt;br&gt;&lt;/div&gt;&lt;div&gt;ISDN&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#66FFFF;" vertex="1" parent="shSy23RzKir5_253uZAU-41">
+        <mxCell id="ig0vP3UjA5AoyJBOKrrB-50" value="&lt;div&gt;Activation of &lt;br&gt;&lt;/div&gt;&lt;div&gt;ISDN &lt;br&gt;&lt;/div&gt;&lt;div&gt;(Reason code)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#66FFFF;" vertex="1" parent="shSy23RzKir5_253uZAU-41">
           <mxGeometry x="609" y="70" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ig0vP3UjA5AoyJBOKrrB-59" value="&lt;b&gt;APP of Autoactivation&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="shSy23RzKir5_253uZAU-41">
@@ -566,7 +563,7 @@
         <mxCell id="lF_sZAvtJe_kAXwwYih7-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="lF_sZAvtJe_kAXwwYih7-38" source="lF_sZAvtJe_kAXwwYih7-44" target="lF_sZAvtJe_kAXwwYih7-46" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ig0vP3UjA5AoyJBOKrrB-55" value="Change status order Finished" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="lF_sZAvtJe_kAXwwYih7-38">
+        <mxCell id="ig0vP3UjA5AoyJBOKrrB-55" value="&lt;div&gt;Change status order Finished&lt;/div&gt;&lt;div&gt;(Reason Code)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="lF_sZAvtJe_kAXwwYih7-38">
           <mxGeometry x="608" y="50" width="101" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ig0vP3UjA5AoyJBOKrrB-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="lF_sZAvtJe_kAXwwYih7-38" source="ig0vP3UjA5AoyJBOKrrB-50" target="ig0vP3UjA5AoyJBOKrrB-55">
@@ -590,10 +587,10 @@
             <mxPoint x="559" y="679" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ig0vP3UjA5AoyJBOKrrB-58" value="" style="endArrow=none;dashed=1;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.175;entryY=1.9;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ig0vP3UjA5AoyJBOKrrB-55" target="ig0vP3UjA5AoyJBOKrrB-79">
+        <mxCell id="ig0vP3UjA5AoyJBOKrrB-58" value="" style="endArrow=none;dashed=1;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.175;entryY=1.9;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ig0vP3UjA5AoyJBOKrrB-55">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="649.5000000000005" y="1058" as="sourcePoint" />
-            <mxPoint x="1490" y="950" as="targetPoint" />
+            <mxPoint x="1460" y="920" as="targetPoint" />
             <Array as="points">
               <mxPoint x="650" y="968" />
               <mxPoint x="1321" y="968" />
