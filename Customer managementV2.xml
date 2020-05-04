@@ -1,4 +1,4 @@
-<mxfile modified="2020-05-04T20:17:13.072Z" host="app.diagrams.net" agent="5.0 (Windows)" etag="JoqePG91PCJ-arPwn4Sd" version="13.0.6" type="github">
+<mxfile modified="2020-05-04T20:19:43.501Z" host="app.diagrams.net" agent="5.0 (Windows)" etag="bXH9RbcVW7Hxkmg9k6wZ" version="13.0.6" type="github">
   <diagram id="a8ff440f-91d0-836d-069a-c04da7e81235" name="Page-1">
     <mxGraphModel dx="2925" dy="893" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
       <root>
@@ -426,10 +426,10 @@
           <mxGeometry x="42" y="136" width="120" height="45" as="geometry" />
         </mxCell>
         <mxCell id="crnUpGYSJKcYLJaRzDnw-41" value="Portal &amp;gt;&amp;gt; eCommerce Web " style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF0080;" parent="crnUpGYSJKcYLJaRzDnw-42" vertex="1">
-          <mxGeometry x="45" y="222" width="120" height="57" as="geometry" />
+          <mxGeometry x="30" y="222" width="135" height="57" as="geometry" />
         </mxCell>
         <mxCell id="ig0vP3UjA5AoyJBOKrrB-62" value="%" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#9999FF;" vertex="1" parent="crnUpGYSJKcYLJaRzDnw-42">
-          <mxGeometry x="46" y="250" width="30" height="29" as="geometry" />
+          <mxGeometry x="35" y="250" width="30" height="29" as="geometry" />
         </mxCell>
         <mxCell id="ig0vP3UjA5AoyJBOKrrB-63" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="crnUpGYSJKcYLJaRzDnw-42">
           <mxGeometry x="179" y="41" width="20" height="20" as="geometry" />
