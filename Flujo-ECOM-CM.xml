@@ -1,4 +1,4 @@
-<mxfile modified="2020-05-06T23:42:54.745Z" host="app.diagrams.net" agent="5.0 (Windows)" etag="UaKaMn5QZHlkZIDPOLXs" version="13.0.7" type="github">
+<mxfile modified="2020-05-06T23:43:36.172Z" host="app.diagrams.net" agent="5.0 (Windows)" etag="PTkT7BwzFUYuJppfi2Dy" version="13.0.7" type="github">
   <diagram id="b25491b9-4ba0-4d1b-cfaa-5f1ff10acd85" name="Page-1">
     <mxGraphModel dx="1662" dy="712" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
       <root>
@@ -957,7 +957,7 @@
           <mxGeometry x="1760" y="1266.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ToW5pHNMVX-uKTsE8e8B-221" value="&lt;font style=&quot;font-size: 10px&quot; color=&quot;#990099&quot;&gt;Generacion de ordenes&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;" parent="1" vertex="1">
-          <mxGeometry x="2529.9994117647057" y="1588" width="40" height="20" as="geometry" />
+          <mxGeometry x="2609.9994117647057" y="1579" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ToW5pHNMVX-uKTsE8e8B-229" value="&lt;b&gt;eCOMMERCE FOR PREPAIID ABRIL&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="1917.5" y="1180" width="297" height="40" as="geometry" />
