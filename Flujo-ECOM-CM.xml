@@ -1,6 +1,6 @@
-<mxfile modified="2020-05-08T21:12:35.530Z" host="app.diagrams.net" agent="5.0 (Windows)" etag="i5QwIeIYV8-4T5kEstT1" version="13.0.9" type="github">
+<mxfile modified="2020-05-08T21:59:10.013Z" host="app.diagrams.net" agent="5.0 (Windows)" etag="i-zugEMJmACW6Obd02zq" version="13.0.9" type="github">
   <diagram id="b25491b9-4ba0-4d1b-cfaa-5f1ff10acd85" name="Page-1">
-    <mxGraphModel dx="2170" dy="1198" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1021" dy="564" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -980,8 +980,8 @@
             <mxPoint x="2011.9994117647066" y="1385.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ToW5pHNMVX-uKTsE8e8B-264" value="Formularios completo" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="2579.9994117647057" y="1450.5" width="81" height="33" as="geometry" />
+        <mxCell id="ToW5pHNMVX-uKTsE8e8B-264" value="&lt;b&gt;Estado: orden generado&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1301" y="1338.5" width="151" height="43.5" as="geometry" />
         </mxCell>
         <mxCell id="ToW5pHNMVX-uKTsE8e8B-265" value="eCommerce" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1962" y="1280" width="98" height="33" as="geometry" />
@@ -1212,6 +1212,42 @@
         </mxCell>
         <mxCell id="26b5tipPTO3cbCc4oOgp-211" value="Status Finished" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;strokeColor=#1A1A1A;strokeWidth=1;fillColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="2202" y="2180" width="120" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="26b5tipPTO3cbCc4oOgp-213" value="usuarios" style="ellipse;whiteSpace=wrap;html=1;shadow=1;strokeColor=#1A1A1A;strokeWidth=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="1097" y="1215" width="70" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="26b5tipPTO3cbCc4oOgp-219" value="&lt;div&gt;&lt;div&gt;&lt;b&gt;Se genera Orden&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt; y codigo de banco en el BCCs&lt;/b&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="1338.5" width="208.5" height="51.5" as="geometry" />
+        </mxCell>
+        <mxCell id="26b5tipPTO3cbCc4oOgp-224" value="&lt;div&gt;&lt;b&gt;Estado: Pagado&lt;/b&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1294.5" y="1457.5" width="151" height="43.5" as="geometry" />
+        </mxCell>
+        <mxCell id="26b5tipPTO3cbCc4oOgp-225" value="&lt;div&gt;&lt;b&gt;Cliente procede en hacer pago&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;del codigo de banco generado&lt;br&gt;&lt;/b&gt;&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="1458.5" width="219" height="51.5" as="geometry" />
+        </mxCell>
+        <mxCell id="26b5tipPTO3cbCc4oOgp-227" value="&lt;div&gt;&lt;b&gt;Estado: Nuevo&lt;br&gt;&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1294.5" y="1576" width="151" height="43.5" as="geometry" />
+        </mxCell>
+        <mxCell id="26b5tipPTO3cbCc4oOgp-228" value="&lt;div&gt;&lt;b&gt;Estado: Asignado&lt;br&gt;&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1294.5" y="1684.5" width="151" height="43.5" as="geometry" />
+        </mxCell>
+        <mxCell id="26b5tipPTO3cbCc4oOgp-229" value="&lt;div&gt;&lt;b&gt;Estado: En Proceso&lt;br&gt;&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1294.5" y="1800" width="151" height="43.5" as="geometry" />
+        </mxCell>
+        <mxCell id="26b5tipPTO3cbCc4oOgp-230" value="&lt;div&gt;&lt;b&gt;Estado: Finalizado&lt;br&gt;&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1294.5" y="1916.5" width="151" height="43.5" as="geometry" />
+        </mxCell>
+        <mxCell id="26b5tipPTO3cbCc4oOgp-231" value="&lt;div&gt;Se procede en hacer el &lt;br&gt;&lt;/div&gt;&lt;div&gt;contrato de voz y se activa la linea&lt;br&gt;&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="1572" width="219" height="51.5" as="geometry" />
+        </mxCell>
+        <mxCell id="26b5tipPTO3cbCc4oOgp-232" value="&lt;div&gt;&lt;b&gt;Cliente procede en hacer pago&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;del codigo de banco generado&lt;br&gt;&lt;/b&gt;&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="1680.5" width="219" height="51.5" as="geometry" />
+        </mxCell>
+        <mxCell id="26b5tipPTO3cbCc4oOgp-233" value="&lt;div&gt;&lt;b&gt;Cliente procede en hacer pago&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;del codigo de banco generado&lt;br&gt;&lt;/b&gt;&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="1022.5" y="1796" width="219" height="51.5" as="geometry" />
+        </mxCell>
+        <mxCell id="26b5tipPTO3cbCc4oOgp-234" value="&lt;div&gt;&lt;b&gt;Cliente procede en hacer pago&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;del codigo de banco generado&lt;br&gt;&lt;/b&gt;&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="1916.5" width="219" height="51.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
