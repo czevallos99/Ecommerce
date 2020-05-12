@@ -1,4 +1,4 @@
-<mxfile modified="2020-05-12T22:44:43.771Z" host="app.diagrams.net" agent="5.0 (Windows)" etag="FxwYZnCIBgXTo26BDwVJ" version="13.1.1" type="github">
+<mxfile modified="2020-05-12T22:47:17.209Z" host="app.diagrams.net" agent="5.0 (Windows)" etag="p9GgP3jJg-OE406WLHdm" version="13.1.1" type="github">
   <diagram id="a8ff440f-91d0-836d-069a-c04da7e81235" name="Page-1">
     <mxGraphModel dx="1871" dy="564" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
       <root>
@@ -1946,9 +1946,6 @@
         </mxCell>
         <mxCell id="juXAYYzFYkUp7uRoEDeE-490" value="13" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="juXAYYzFYkUp7uRoEDeE-469">
           <mxGeometry x="765" y="76" width="30" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="juXAYYzFYkUp7uRoEDeE-528" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="juXAYYzFYkUp7uRoEDeE-469">
-          <mxGeometry x="1496" y="138" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="juXAYYzFYkUp7uRoEDeE-492" value="&lt;div&gt;Change status order Finished&lt;/div&gt;&lt;div&gt;(Reason Code)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="juXAYYzFYkUp7uRoEDeE-467">
           <mxGeometry x="755" y="110" width="101" height="60" as="geometry" />
