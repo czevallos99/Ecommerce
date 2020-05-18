@@ -1,4 +1,4 @@
-<mxfile modified="2020-05-18T21:12:51.205Z" host="app.diagrams.net" agent="5.0 (Windows)" etag="h2Aqmp1Pe3z75szdMUm0" version="13.1.2" type="github">
+<mxfile modified="2020-05-18T21:30:18.259Z" host="app.diagrams.net" agent="5.0 (Windows)" etag="kf0bKJbw43jtrnBCOIvG" version="13.1.2" type="github">
   <diagram id="a8ff440f-91d0-836d-069a-c04da7e81235" name="Page-1">
     <mxGraphModel dx="2925" dy="893" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
       <root>
@@ -2512,16 +2512,16 @@
           <mxGeometry x="-398.62" y="5173" width="410.62" height="230" as="geometry" />
         </mxCell>
         <mxCell id="S5mqzKQpIUI-av24KR36-112" value="My Profile" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="-390.62" y="5215.23" width="90" height="27.77" as="geometry" />
+          <mxGeometry x="-390.62" y="5209.23" width="90" height="27.77" as="geometry" />
         </mxCell>
         <mxCell id="S5mqzKQpIUI-av24KR36-113" value="My Orders" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="-391.62" y="5251.25" width="90" height="27.77" as="geometry" />
+          <mxGeometry x="-391.62" y="5246.25" width="90" height="27.77" as="geometry" />
         </mxCell>
         <mxCell id="S5mqzKQpIUI-av24KR36-114" value="My Commissions" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFF99;" vertex="1" parent="1">
-          <mxGeometry x="-391.62" y="5292.02" width="107.62" height="27.77" as="geometry" />
+          <mxGeometry x="-393.62" y="5322.02" width="107.62" height="27.77" as="geometry" />
         </mxCell>
         <mxCell id="S5mqzKQpIUI-av24KR36-115" value="My promotions" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="-394.62" y="5332.75" width="90" height="30.25" as="geometry" />
+          <mxGeometry x="-389.62" y="5363" width="90" height="30.25" as="geometry" />
         </mxCell>
         <mxCell id="S5mqzKQpIUI-av24KR36-116" value="" style="endArrow=none;html=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -2530,10 +2530,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="S5mqzKQpIUI-av24KR36-117" value="My Earned" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;arcSize=0;" vertex="1" parent="1">
-          <mxGeometry x="-133.91" y="5215.23" width="90.62" height="27.77" as="geometry" />
+          <mxGeometry x="-390.90999999999997" y="5283.14" width="90.62" height="27.77" as="geometry" />
         </mxCell>
         <mxCell id="S5mqzKQpIUI-av24KR36-118" value="&lt;b&gt;My Commissuions&lt;br&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-294" y="5179" width="123.38" height="20" as="geometry" />
+          <mxGeometry x="-253.81" y="5179" width="123.38" height="20" as="geometry" />
         </mxCell>
         <mxCell id="S5mqzKQpIUI-av24KR36-119" value="Commissions" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#99FFFF;" vertex="1" parent="1">
           <mxGeometry x="-251.62000000000003" y="5215.23" width="117" height="27.77" as="geometry" />
@@ -2574,35 +2574,59 @@
         <mxCell id="S5mqzKQpIUI-av24KR36-140" value="&lt;b&gt;Commission start from second success order&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="-274.28999999999996" y="5356.000000000001" width="280" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="S5mqzKQpIUI-av24KR36-155" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="38.06" y="5173" width="410.62" height="230" as="geometry" />
+        <mxCell id="S5mqzKQpIUI-av24KR36-170" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="34.379999999999995" y="5173" width="410.62" height="230" as="geometry" />
         </mxCell>
-        <mxCell id="S5mqzKQpIUI-av24KR36-156" value="My Profile" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="46.06" y="5215.23" width="90" height="27.77" as="geometry" />
+        <mxCell id="S5mqzKQpIUI-av24KR36-171" value="My Profile" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="42.379999999999995" y="5209.23" width="90" height="27.77" as="geometry" />
         </mxCell>
-        <mxCell id="S5mqzKQpIUI-av24KR36-157" value="My Orders" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="45.06" y="5251.25" width="90" height="27.77" as="geometry" />
+        <mxCell id="S5mqzKQpIUI-av24KR36-172" value="My Orders" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="41.379999999999995" y="5246.25" width="90" height="27.77" as="geometry" />
         </mxCell>
-        <mxCell id="S5mqzKQpIUI-av24KR36-158" value="My Commissions" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFF99;" vertex="1" parent="1">
-          <mxGeometry x="45.06" y="5292.02" width="107.62" height="27.77" as="geometry" />
+        <mxCell id="S5mqzKQpIUI-av24KR36-173" value="My Earned" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFF99;" vertex="1" parent="1">
+          <mxGeometry x="42.379999999999995" y="5284.9800000000005" width="107.62" height="27.77" as="geometry" />
         </mxCell>
-        <mxCell id="S5mqzKQpIUI-av24KR36-159" value="My promotions" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="42.06" y="5332.75" width="90" height="30.25" as="geometry" />
+        <mxCell id="S5mqzKQpIUI-av24KR36-174" value="My promotions" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="43.379999999999995" y="5363" width="90" height="30.25" as="geometry" />
         </mxCell>
-        <mxCell id="S5mqzKQpIUI-av24KR36-160" value="" style="endArrow=none;html=1;" edge="1" parent="1">
+        <mxCell id="S5mqzKQpIUI-av24KR36-175" value="" style="endArrow=none;html=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="158.06000000000057" y="5388" as="sourcePoint" />
-            <mxPoint x="158.06000000000057" y="5208" as="targetPoint" />
+            <mxPoint x="154.38000000000056" y="5388" as="sourcePoint" />
+            <mxPoint x="154.38000000000056" y="5208" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="S5mqzKQpIUI-av24KR36-161" value="My Earned" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#99FFFF;arcSize=0;" vertex="1" parent="1">
-          <mxGeometry x="302.77" y="5215.23" width="90.62" height="27.77" as="geometry" />
+        <mxCell id="S5mqzKQpIUI-av24KR36-176" value="My Commissions" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;arcSize=0;" vertex="1" parent="1">
+          <mxGeometry x="39.59" y="5322.02" width="110.41" height="27.77" as="geometry" />
         </mxCell>
-        <mxCell id="S5mqzKQpIUI-av24KR36-162" value="&lt;b&gt;My Commissuions&lt;br&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="142.68" y="5179" width="123.38" height="20" as="geometry" />
+        <mxCell id="S5mqzKQpIUI-av24KR36-177" value="&lt;b&gt;My Earned&lt;br&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="165.71" y="5179" width="123.38" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="S5mqzKQpIUI-av24KR36-163" value="Commissions" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="185.05999999999997" y="5215.23" width="117" height="27.77" as="geometry" />
+        <mxCell id="S5mqzKQpIUI-av24KR36-178" value="Earned" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#99FFFF;" vertex="1" parent="1">
+          <mxGeometry x="220.99999999999997" y="5209.23" width="117" height="27.77" as="geometry" />
+        </mxCell>
+        <mxCell id="S5mqzKQpIUI-av24KR36-183" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="172.38" y="5275.98" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="S5mqzKQpIUI-av24KR36-184" value="Gigas Internet Data &amp;gt;&amp;gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;arcSize=0;" vertex="1" parent="1">
+          <mxGeometry x="204.62" y="5274.02" width="176.38" height="20.98" as="geometry" />
+        </mxCell>
+        <mxCell id="S5mqzKQpIUI-av24KR36-185" value="&lt;b&gt;Apply Commission (Bonus)&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="172.38" y="5245.14" width="170" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="S5mqzKQpIUI-av24KR36-186" value="Discount in next invoice &amp;gt;&amp;gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;arcSize=0;" vertex="1" parent="1">
+          <mxGeometry x="204.62" y="5311.02" width="176.38" height="20.98" as="geometry" />
+        </mxCell>
+        <mxCell id="S5mqzKQpIUI-av24KR36-187" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="172.38" y="5310.98" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="S5mqzKQpIUI-av24KR36-188" value="Money Cash &amp;gt;&amp;gt; " style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;arcSize=0;" vertex="1" parent="1">
+          <mxGeometry x="204.62" y="5348.02" width="176.38" height="20.98" as="geometry" />
+        </mxCell>
+        <mxCell id="S5mqzKQpIUI-av24KR36-189" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="172.38" y="5346.98" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="S5mqzKQpIUI-av24KR36-190" value="&lt;div&gt;Only apply for when choosing amount&lt;/div&gt;&lt;div&gt; is more than 50 points &lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="160.00000000000006" y="5373" width="220" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
