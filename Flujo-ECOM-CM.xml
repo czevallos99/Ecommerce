@@ -1,4 +1,4 @@
-<mxfile modified="2020-05-19T13:44:05.874Z" host="app.diagrams.net" agent="5.0 (Windows)" etag="QTzK404QR6b284z_EULH" version="13.1.2" type="github">
+<mxfile modified="2020-05-19T13:46:50.222Z" host="app.diagrams.net" agent="5.0 (Windows)" etag="Lggr_49v4hsHjRhFyZuL" version="13.1.2" type="github">
   <diagram id="b25491b9-4ba0-4d1b-cfaa-5f1ff10acd85" name="Page-1">
     <mxGraphModel dx="1606" dy="714" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
       <root>
@@ -1293,6 +1293,21 @@
         </mxCell>
         <mxCell id="DK9dpB32UeaVhuPbcgGu-224" value="&lt;font style=&quot;font-size: 18px&quot;&gt;Posibles estados y casos para solicitar devolucion&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="700" y="1226.5" width="243" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="DK9dpB32UeaVhuPbcgGu-225" value="" style="endArrow=none;dashed=1;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1360" y="1720" as="sourcePoint" />
+            <mxPoint x="1410" y="1670" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DK9dpB32UeaVhuPbcgGu-226" value="" style="endArrow=none;dashed=1;html=1;entryX=0.055;entryY=0.573;entryDx=0;entryDy=0;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryPerimeter=0;" edge="1" parent="1" source="26b5tipPTO3cbCc4oOgp-231" target="26b5tipPTO3cbCc4oOgp-225">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1360" y="1720" as="sourcePoint" />
+            <mxPoint x="1410" y="1670" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="910" y="1550" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
