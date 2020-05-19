@@ -1,4 +1,4 @@
-<mxfile modified="2020-05-19T13:46:50.222Z" host="app.diagrams.net" agent="5.0 (Windows)" etag="Lggr_49v4hsHjRhFyZuL" version="13.1.2" type="github">
+<mxfile modified="2020-05-19T14:04:54.199Z" host="app.diagrams.net" agent="5.0 (Windows)" etag="Ni5-LpTs3diuwcBecXUj" version="13.1.2" type="github">
   <diagram id="b25491b9-4ba0-4d1b-cfaa-5f1ff10acd85" name="Page-1">
     <mxGraphModel dx="1606" dy="714" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
       <root>
@@ -1282,7 +1282,7 @@
             <mxPoint x="1602" y="1291" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DK9dpB32UeaVhuPbcgGu-222" value="&lt;font style=&quot;font-size: 18px&quot;&gt;Acciomes en cada cambio de estado&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="DK9dpB32UeaVhuPbcgGu-222" value="&lt;font style=&quot;font-size: 18px&quot;&gt;Acciomes para cada cambio de estado&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="985.5" y="1226.5" width="243" height="20" as="geometry" />
         </mxCell>
         <mxCell id="DK9dpB32UeaVhuPbcgGu-223" value="" style="endArrow=none;dashed=1;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
@@ -1291,21 +1291,30 @@
             <mxPoint x="963.2649999999999" y="2044.645" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DK9dpB32UeaVhuPbcgGu-224" value="&lt;font style=&quot;font-size: 18px&quot;&gt;Posibles estados y casos para solicitar devolucion&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="DK9dpB32UeaVhuPbcgGu-224" value="&lt;font style=&quot;font-size: 18px&quot;&gt;Posibles casos para solicitar devolucion&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="700" y="1226.5" width="243" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="DK9dpB32UeaVhuPbcgGu-225" value="" style="endArrow=none;dashed=1;html=1;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1360" y="1720" as="sourcePoint" />
-            <mxPoint x="1410" y="1670" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="DK9dpB32UeaVhuPbcgGu-226" value="" style="endArrow=none;dashed=1;html=1;entryX=0.055;entryY=0.573;entryDx=0;entryDy=0;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryPerimeter=0;" edge="1" parent="1" source="26b5tipPTO3cbCc4oOgp-231" target="26b5tipPTO3cbCc4oOgp-225">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1360" y="1720" as="sourcePoint" />
             <mxPoint x="1410" y="1670" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="910" y="1550" />
+              <mxPoint x="940" y="1550" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DK9dpB32UeaVhuPbcgGu-227" value="&lt;div&gt;KPI: El cliente debe ser llamado en 3 horas despues que ha realizado el pago&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Caso:&amp;nbsp; Despues que el cliente a pagado, la Demora en realizar contrato de voz por encima de 24 horas&lt;/b&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="700" y="1477.5" width="240" height="152.5" as="geometry" />
+        </mxCell>
+        <mxCell id="DK9dpB32UeaVhuPbcgGu-229" value="&lt;div&gt;KPI: El cliente debe recibir su orden dentro de 48 horas despues de haber realizado el contrato de voz&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Caso: Demora en realizar la coordinacion y entrega de la orden, por encima de 3 dias.&lt;/b&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="700" y="1781.5" width="230" height="152.5" as="geometry" />
+        </mxCell>
+        <mxCell id="DK9dpB32UeaVhuPbcgGu-230" value="" style="endArrow=none;dashed=1;html=1;entryX=0.055;entryY=0.573;entryDx=0;entryDy=0;exitX=0.055;exitY=0.534;exitDx=0;exitDy=0;entryPerimeter=0;exitPerimeter=0;" edge="1" parent="1" source="26b5tipPTO3cbCc4oOgp-234">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1044.4692737430169" y="1819.747905027933" as="sourcePoint" />
+            <mxPoint x="1032.045" y="1700.0095000000001" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="940" y="1860" />
             </Array>
           </mxGeometry>
         </mxCell>
