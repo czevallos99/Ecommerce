@@ -1,6 +1,6 @@
-<mxfile modified="2020-05-23T00:47:36.877Z" host="app.diagrams.net" agent="5.0 (Windows)" etag="PVmfrulezozSzafVRx20" version="13.1.2" type="github">
+<mxfile modified="2020-05-23T00:49:11.681Z" host="app.diagrams.net" agent="5.0 (Windows)" etag="gWggEZMcjxsstNrD_Jat" version="13.1.2" type="github">
   <diagram id="a8ff440f-91d0-836d-069a-c04da7e81235" name="Page-1">
-    <mxGraphModel dx="4076" dy="781" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="5220" dy="1368" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -963,7 +963,7 @@
         <mxCell id="Vh2RwqQ_m0Ijlg3m5EiK-99" value="- Order Payment pending (Gen_Code)" style="text;strokeColor=none;fillColor=#9999FF;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="Vh2RwqQ_m0Ijlg3m5EiK-97" vertex="1">
           <mxGeometry y="52" width="230" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="Vh2RwqQ_m0Ijlg3m5EiK-100" value="- Order Payment pending  (Gen_Code)" style="text;strokeColor=#99FFFF;fillColor=#99FFFF;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="Vh2RwqQ_m0Ijlg3m5EiK-97" vertex="1">
+        <mxCell id="Vh2RwqQ_m0Ijlg3m5EiK-100" value="- Order Pay on Delivery  (COD)" style="text;strokeColor=#99FFFF;fillColor=#99FFFF;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="Vh2RwqQ_m0Ijlg3m5EiK-97" vertex="1">
           <mxGeometry y="78" width="230" height="32" as="geometry" />
         </mxCell>
         <mxCell id="Vh2RwqQ_m0Ijlg3m5EiK-135" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="Vh2RwqQ_m0Ijlg3m5EiK-82" edge="1">
