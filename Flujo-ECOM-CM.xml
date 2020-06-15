@@ -1,4 +1,4 @@
-<mxfile modified="2020-06-15T20:08:42.506Z" host="app.diagrams.net" agent="5.0 (Windows)" etag="zcZedlFF0D12KfCr5Yak" version="13.2.4" type="github">
+<mxfile modified="2020-06-15T20:11:30.446Z" host="app.diagrams.net" agent="5.0 (Windows)" etag="mIWC-s1wbaBa4kTHyqOh" version="13.2.4" type="github">
   <diagram id="b25491b9-4ba0-4d1b-cfaa-5f1ff10acd85" name="Page-1">
     <mxGraphModel dx="1643" dy="733" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
       <root>
@@ -1345,9 +1345,6 @@
         <mxCell id="xCkzuV9xg9acAdPrcTmS-220" value="&lt;div&gt;Activa&lt;/div&gt;&lt;div&gt;Bitel&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="2615.9994117647057" y="1977" width="100" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="xCkzuV9xg9acAdPrcTmS-222" value="&lt;font style=&quot;font-size: 10px&quot; color=&quot;#990099&quot;&gt;Generacion orders&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;" vertex="1" parent="1">
-          <mxGeometry x="2896.9994117647057" y="1334.25" width="62" height="20" as="geometry" />
-        </mxCell>
         <mxCell id="xCkzuV9xg9acAdPrcTmS-223" style="edgeStyle=none;rounded=0;html=1;entryX=0.75;entryY=0;jettySize=auto;orthogonalLoop=1;strokeColor=#9933FF;fillColor=#FF9933;shape=flexArrow;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="3119.3327450980396" y="1346.75" as="sourcePoint" />
@@ -1355,7 +1352,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="xCkzuV9xg9acAdPrcTmS-224" value="&lt;div&gt;eCommerce - Handset&lt;br&gt;&lt;/div&gt;&lt;div&gt;Pay Online| Bak Code&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3053.53" y="1260.5" width="140" height="80" as="geometry" />
+          <mxGeometry x="3051.53" y="1260.5" width="140" height="80" as="geometry" />
         </mxCell>
         <mxCell id="xCkzuV9xg9acAdPrcTmS-228" value="Send SMS 1 with Bank Code to user" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="2840" y="1457.75" width="158" height="20" as="geometry" />
@@ -1372,9 +1369,9 @@
         <mxCell id="xCkzuV9xg9acAdPrcTmS-237" value="&lt;b&gt;BCCs&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="2615.9994117647057" y="1538.75" width="100" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="xCkzuV9xg9acAdPrcTmS-240" value="" style="endArrow=none;dashed=1;html=1;entryX=1.008;entryY=0.602;entryDx=0;entryDy=0;entryPerimeter=0;exitX=-0.003;exitY=0.603;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+        <mxCell id="xCkzuV9xg9acAdPrcTmS-240" value="" style="endArrow=none;dashed=1;html=1;entryX=1.008;entryY=0.602;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="xCkzuV9xg9acAdPrcTmS-210">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2631.4700000000003" y="1358.7560000000003" as="sourcePoint" />
+            <mxPoint x="2933.3200000000006" y="1366.1200000000003" as="sourcePoint" />
             <mxPoint x="3399.83" y="1357.654" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -1410,9 +1407,6 @@
         </mxCell>
         <mxCell id="xCkzuV9xg9acAdPrcTmS-270" value="&lt;div&gt;Send SMS2 BC in charge&lt;/div&gt;&lt;div&gt;new order is pending&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="2906" y="1833.25" width="147" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="xCkzuV9xg9acAdPrcTmS-271" value="SMS1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;" vertex="1" parent="1">
-          <mxGeometry x="3181.9994117647057" y="1481.75" width="82" height="20" as="geometry" />
         </mxCell>
         <mxCell id="xCkzuV9xg9acAdPrcTmS-302" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xCkzuV9xg9acAdPrcTmS-273" target="xCkzuV9xg9acAdPrcTmS-301">
           <mxGeometry relative="1" as="geometry" />
@@ -1532,6 +1526,24 @@
         </mxCell>
         <mxCell id="xCkzuV9xg9acAdPrcTmS-323" value="Concicliation" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="3431.53" y="1438.5" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="xCkzuV9xg9acAdPrcTmS-325" value="" style="endArrow=none;dashed=1;html=1;exitX=-0.003;exitY=0.603;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1.004;entryY=0.194;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="xCkzuV9xg9acAdPrcTmS-210">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2631.4700000000003" y="1358.7560000000003" as="sourcePoint" />
+            <mxPoint x="3004" y="1359" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xCkzuV9xg9acAdPrcTmS-327" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="3059.53" y="1300.5" width="60" height="39.5" as="geometry" />
+        </mxCell>
+        <mxCell id="xCkzuV9xg9acAdPrcTmS-328" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="3128.53" y="1300.5" width="60" height="39.5" as="geometry" />
+        </mxCell>
+        <mxCell id="xCkzuV9xg9acAdPrcTmS-326" value="Pay Online " style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="3057.03" y="1310" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="xCkzuV9xg9acAdPrcTmS-329" value="Bak Code" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3137.53" y="1305.75" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
