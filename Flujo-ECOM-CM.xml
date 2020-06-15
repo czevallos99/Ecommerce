@@ -1,11 +1,11 @@
-<mxfile modified="2020-06-15T19:59:34.829Z" host="app.diagrams.net" agent="5.0 (Windows)" etag="XDpXxbxuB8d-zAACIbrW" version="13.2.4" type="github">
+<mxfile modified="2020-06-15T20:02:21.660Z" host="app.diagrams.net" agent="5.0 (Windows)" etag="H8ZsPCSzbK3Dm8qJpJ1o" version="13.2.4" type="github">
   <diagram id="b25491b9-4ba0-4d1b-cfaa-5f1ff10acd85" name="Page-1">
     <mxGraphModel dx="1643" dy="733" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="xCkzuV9xg9acAdPrcTmS-309" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="3400" y="1210" width="390" height="260" as="geometry" />
+          <mxGeometry x="3400" y="1210" width="390" height="330" as="geometry" />
         </mxCell>
         <mxCell id="DK9dpB32UeaVhuPbcgGu-212" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=90;" parent="1" vertex="1">
           <mxGeometry x="710.89" y="1155.58" width="860.05" height="918.07" as="geometry" />
@@ -1556,6 +1556,24 @@
         </mxCell>
         <mxCell id="xCkzuV9xg9acAdPrcTmS-314" value="Delivery partner - commercial agreement" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="3428" y="1370" width="230" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="xCkzuV9xg9acAdPrcTmS-315" value="Commision / delivery area" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="3433" y="1389.75" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="xCkzuV9xg9acAdPrcTmS-316" value="Coodinate with MKS" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="3433" y="1412" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="xCkzuV9xg9acAdPrcTmS-317" value="&lt;b&gt;- Digital Business&lt;br&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="3431.53" y="1437.5" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="xCkzuV9xg9acAdPrcTmS-318" value="Delivery partner - commercial agreement" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="3428" y="1457.5" width="230" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="xCkzuV9xg9acAdPrcTmS-319" value="Commision / delivery area" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="3433" y="1477.25" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="xCkzuV9xg9acAdPrcTmS-320" value="Coodinate with MKS" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="3433" y="1499.5" width="120" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
