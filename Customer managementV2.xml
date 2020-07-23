@@ -1,6 +1,6 @@
-<mxfile modified="2020-07-23T20:34:22.460Z" host="app.diagrams.net" agent="5.0 (Windows)" etag="qnyOP2rhw1FJ2o2fTbbX" version="13.3.5" type="github">
+<mxfile modified="2020-07-23T20:44:43.494Z" host="app.diagrams.net" agent="5.0 (Windows)" etag="Dz4sM-uHqip3OIUP8W9g" version="13.3.5" type="github">
   <diagram id="a8ff440f-91d0-836d-069a-c04da7e81235" name="Page-1">
-    <mxGraphModel dx="5425" dy="1218" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="6383" dy="1623" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3713,7 +3713,7 @@
           <mxGeometry x="-784" y="4515.76" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="jOkrdPjjatkYlI3FUh6S-38" value="Recargas" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
-          <mxGeometry x="-0.28999999999999204" y="6273.98" width="70" height="20" as="geometry" />
+          <mxGeometry x="-208.29" y="6860" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="jOkrdPjjatkYlI3FUh6S-41" value="Input chaptcha" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;arcSize=0;" parent="1" vertex="1">
           <mxGeometry x="-10.42" y="6377.23" width="62.31" height="30.77" as="geometry" />
@@ -3786,7 +3786,7 @@
         <mxCell id="p2Kg0BniVOcC1Vsvotvs-51" value="&lt;b&gt;Informacion del cliente&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="584.73" y="6622.5" width="135.27" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="p2Kg0BniVOcC1Vsvotvs-52" value="Numero DNI" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="p2Kg0BniVOcC1Vsvotvs-52" value="DNI titular de la linea" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="648.46" y="6653" width="99.04" height="26.32" as="geometry" />
         </mxCell>
         <mxCell id="p2Kg0BniVOcC1Vsvotvs-53" value="Nombre" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
@@ -3843,14 +3843,26 @@
         <mxCell id="p2Kg0BniVOcC1Vsvotvs-81" value="&lt;div&gt;Correo&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="590.08" y="6403.07" width="90" height="26.32" as="geometry" />
         </mxCell>
+        <mxCell id="p2Kg0BniVOcC1Vsvotvs-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="p2Kg0BniVOcC1Vsvotvs-82">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="810" y="6360" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="710" y="6456" />
+              <mxPoint x="710" y="6360" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="p2Kg0BniVOcC1Vsvotvs-82" value="Continuar &amp;gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#99FF99;" vertex="1" parent="1">
           <mxGeometry x="599.13" y="6443.07" width="76.09" height="26.32" as="geometry" />
         </mxCell>
         <mxCell id="p2Kg0BniVOcC1Vsvotvs-83" value="Email &lt;b&gt;OTP&lt;/b&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#66B2FF;" vertex="1" parent="1">
-          <mxGeometry x="696.77" y="6422.389999999999" width="70" height="80" as="geometry" />
+          <mxGeometry x="727.5" y="6426.999999999999" width="70" height="80" as="geometry" />
         </mxCell>
         <mxCell id="p2Kg0BniVOcC1Vsvotvs-85" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="337" y="6368" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="p2Kg0BniVOcC1Vsvotvs-89" value="&lt;div&gt;Webservices&lt;/div&gt;&lt;div&gt;validacion de &lt;br&gt;&lt;/div&gt;&lt;div&gt;numero&lt;br&gt;&lt;/div&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;align=center;fillColor=#FFE6CC;" vertex="1" parent="1">
+          <mxGeometry x="791.46" y="6290" width="148.54" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
