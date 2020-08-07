@@ -1,4 +1,4 @@
-<mxfile modified="2020-08-07T12:51:35.005Z" host="app.diagrams.net" agent="5.0 (Windows)" etag="lt58fRxm89uB7f-8hr0f" version="13.6.0" type="github">
+<mxfile modified="2020-08-07T13:03:20.448Z" host="app.diagrams.net" agent="5.0 (Windows)" etag="--G8LeVIcDtPn0XmtchP" version="13.6.0" type="github">
   <diagram id="a8ff440f-91d0-836d-069a-c04da7e81235" name="Page-1">
     <mxGraphModel dx="3989" dy="722" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
       <root>
@@ -4517,10 +4517,10 @@
           <mxGeometry x="-422.98" y="5287.2" width="507.97" height="380" as="geometry" />
         </mxCell>
         <mxCell id="xuyu6tKO3_LD4TWrL7Ig-40" value="?portabilidad-29.90/affiliate-code=77" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-203.29" y="5157.66" width="199.29" height="20" as="geometry" />
+          <mxGeometry x="-203.29" y="5157.66" width="203.29" height="20" as="geometry" />
         </mxCell>
         <mxCell id="xuyu6tKO3_LD4TWrL7Ig-41" value="Copy Link" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#33FFFF;" vertex="1" parent="1">
-          <mxGeometry x="3" y="5157.66" width="66.38" height="20" as="geometry" />
+          <mxGeometry x="10" y="5157.66" width="66.38" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
