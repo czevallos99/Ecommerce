@@ -1,4 +1,4 @@
-<mxfile modified="2020-08-14T08:24:28.323Z" host="app.diagrams.net" agent="5.0 (Windows)" etag="p9j9gLK6uHvO1u6RMtUl" version="13.6.2" type="github">
+<mxfile modified="2020-08-14T08:28:53.072Z" host="app.diagrams.net" agent="5.0 (Windows)" etag="MAewGIr6CH34kqtS26xE" version="13.6.2" type="github">
   <diagram id="a8ff440f-91d0-836d-069a-c04da7e81235" name="Page-1">
     <mxGraphModel dx="3710" dy="487" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
       <root>
@@ -5053,7 +5053,7 @@
           <mxGeometry x="-1149.51" y="6106.21" width="79.51" height="20.98" as="geometry" />
         </mxCell>
         <mxCell id="VWBL6uY5Cv4AA0UTuiYG-402" value="Period" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="-1216" y="6105" width="50" height="20" as="geometry" />
+          <mxGeometry x="-1213" y="6106.98" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="VWBL6uY5Cv4AA0UTuiYG-403" value="7 GB" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="-1149.51" y="6137.21" width="79.51" height="20.98" as="geometry" />
@@ -5106,8 +5106,20 @@
         <mxCell id="VWBL6uY5Cv4AA0UTuiYG-419" value="Save" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#00FF80;" vertex="1" parent="1">
           <mxGeometry x="-1121.34" y="6345.16" width="94.56" height="31.43" as="geometry" />
         </mxCell>
-        <mxCell id="VWBL6uY5Cv4AA0UTuiYG-420" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#66B2FF;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="-1011.28" y="6128.85" width="193.42" height="117.69" as="geometry" />
+        <mxCell id="VWBL6uY5Cv4AA0UTuiYG-420" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCFF99;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="-1018.01" y="6122.12" width="193.42" height="131.15" as="geometry" />
+        </mxCell>
+        <mxCell id="VWBL6uY5Cv4AA0UTuiYG-421" value="&lt;b&gt;Internet Ilimitado&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="-980.6800000000001" y="6102.12" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="VWBL6uY5Cv4AA0UTuiYG-422" value="&lt;b&gt;Bono de Activacion&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="-990.0000000000001" y="6155.19" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="VWBL6uY5Cv4AA0UTuiYG-423" value="&lt;b&gt;Llamadas y SMS&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="-980.0000000000001" y="6202.73" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="VWBL6uY5Cv4AA0UTuiYG-424" value="&lt;b&gt;App Gratis&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="-965.6800000000001" y="6243.5199999999995" width="80" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
