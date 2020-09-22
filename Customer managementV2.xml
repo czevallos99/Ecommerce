@@ -1,4 +1,4 @@
-<mxfile modified="2020-09-22T11:54:29.390Z" host="app.diagrams.net" agent="5.0 (Windows)" etag="nPvYWBbfbiFRO-83t5Ww" version="13.7.4" type="github">
+<mxfile modified="2020-09-22T12:22:26.535Z" host="app.diagrams.net" agent="5.0 (Windows)" etag="FCi8aswW4jAaPNb8vWwd" version="13.7.4" type="github">
   <diagram id="a8ff440f-91d0-836d-069a-c04da7e81235" name="Page-1">
     <mxGraphModel dx="4150" dy="803" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
       <root>
@@ -7200,16 +7200,16 @@
           <mxGeometry x="-1232.5300000000002" y="9290" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="VBfBhf-bt0eL0sxU__Ml-75" value="&lt;b&gt;4&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="-1028.2300000000002" y="9132.86" width="20" height="20" as="geometry" />
+          <mxGeometry x="-886.4800000000002" y="9053.93" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="VBfBhf-bt0eL0sxU__Ml-76" value="&lt;b&gt;5&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="-743.7600000000002" y="9129.32" width="20" height="20" as="geometry" />
+          <mxGeometry x="-745.7300000000002" y="9191.34" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="VBfBhf-bt0eL0sxU__Ml-77" value="&lt;b&gt;7&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+        <mxCell id="VBfBhf-bt0eL0sxU__Ml-77" value="&lt;b&gt;8&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="-519.0000000000002" y="9340.81" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="VBfBhf-bt0eL0sxU__Ml-78" value="&lt;b&gt;6&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="-392.1600000000002" y="9218.93" width="20" height="20" as="geometry" />
+          <mxGeometry x="-557.5700000000002" y="8980" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="VBfBhf-bt0eL0sxU__Ml-79" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="-572.9300000000001" y="9488.68" width="140" height="26.32" as="geometry" />
@@ -7222,6 +7222,9 @@
         </mxCell>
         <mxCell id="xuyu6tKO3_LD4TWrL7Ig-101" value="Monto recargado" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-577.41" y="9519.999999999998" width="135.27" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="VBfBhf-bt0eL0sxU__Ml-81" value="&lt;b&gt;7&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="-401.50000000000017" y="9218.93" width="20" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
