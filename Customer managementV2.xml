@@ -1,4 +1,4 @@
-<mxfile modified="2020-09-23T20:14:38.225Z" host="app.diagrams.net" agent="5.0 (Windows)" etag="qVIMua-tcis-WAqLD7Ny" version="13.7.5" type="github">
+<mxfile modified="2020-09-23T20:16:01.766Z" host="app.diagrams.net" agent="5.0 (Windows)" etag="xYuEen4mWN756g6S_FIN" version="13.7.5" type="github">
   <diagram id="a8ff440f-91d0-836d-069a-c04da7e81235" name="Page-1">
     <mxGraphModel dx="4432" dy="945" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
       <root>
@@ -989,8 +989,8 @@
         <mxCell id="Ya9IHYvSw7TYuXMZckUR-165" value="WS" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FF6666;" vertex="1" parent="Vh2RwqQ_m0Ijlg3m5EiK-38">
           <mxGeometry x="1189.5" y="132.5" width="30.5" height="30.5" as="geometry" />
         </mxCell>
-        <mxCell id="Vh2RwqQ_m0Ijlg3m5EiK-76" value="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;eCommerce Online For New Line V2 / Pay online and Bank Code + BCCs&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
-          <mxGeometry x="493.11999999999995" y="1580" width="510" height="20" as="geometry" />
+        <mxCell id="Vh2RwqQ_m0Ijlg3m5EiK-76" value="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;eCommerce Plans&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
+          <mxGeometry x="678.1199999999999" y="1580" width="140" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Vh2RwqQ_m0Ijlg3m5EiK-81" value="Channels" style="swimlane;whiteSpace=wrap;startSize=23;" parent="1" vertex="1">
           <mxGeometry y="1620" width="190" height="340" as="geometry" />
