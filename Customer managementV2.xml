@@ -1,9 +1,12 @@
-<mxfile modified="2020-09-28T14:10:21.532Z" host="app.diagrams.net" agent="5.0 (Windows)" etag="ju4gI4m273mPLirt8-hY" version="13.7.4" type="github">
+<mxfile modified="2020-09-28T14:35:47.776Z" host="app.diagrams.net" agent="5.0 (Windows)" etag="v41s39C5YoyYa0DeayRK" version="13.7.4" type="github">
   <diagram id="a8ff440f-91d0-836d-069a-c04da7e81235" name="Page-1">
     <mxGraphModel dx="4054" dy="644" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="gIHVHKnXwFZvZhHR3EeS-136" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="1102.56" y="5478.38" width="440" height="356.81" as="geometry" />
+        </mxCell>
         <mxCell id="gIHVHKnXwFZvZhHR3EeS-121" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="860.97" y="5608.28" width="22.13" height="22.13" as="geometry" />
         </mxCell>
@@ -5978,7 +5981,7 @@
         <mxCell id="SXXYIsUc-o3HTAmLAMVv-489" value="- Order Pay on Delivery  (COD)" style="text;strokeColor=#000000;fillColor=#FFFFFF;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="SXXYIsUc-o3HTAmLAMVv-486" vertex="1">
           <mxGeometry y="52" width="230" height="32" as="geometry" />
         </mxCell>
-        <mxCell id="SXXYIsUc-o3HTAmLAMVv-456" value="Assign Orders BC" style="rounded=1;whiteSpace=wrap;html=1;" parent="SXXYIsUc-o3HTAmLAMVv-455" vertex="1">
+        <mxCell id="SXXYIsUc-o3HTAmLAMVv-456" value="Assign Orders Tambo store" style="rounded=1;whiteSpace=wrap;html=1;" parent="SXXYIsUc-o3HTAmLAMVv-455" vertex="1">
           <mxGeometry x="550" y="120" width="121" height="50" as="geometry" />
         </mxCell>
         <mxCell id="SXXYIsUc-o3HTAmLAMVv-457" value="" style="swimlane;whiteSpace=wrap;startSize=0;" parent="SXXYIsUc-o3HTAmLAMVv-455" vertex="1">
@@ -6038,9 +6041,6 @@
         <mxCell id="SXXYIsUc-o3HTAmLAMVv-474" value="&lt;b&gt;mBCCs Autoassigned&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="SXXYIsUc-o3HTAmLAMVv-457" vertex="1">
           <mxGeometry x="260" width="140" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="SXXYIsUc-o3HTAmLAMVv-475" value="11" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="SXXYIsUc-o3HTAmLAMVv-457" vertex="1">
-          <mxGeometry x="1364" y="17" width="30" height="20" as="geometry" />
-        </mxCell>
         <mxCell id="SXXYIsUc-o3HTAmLAMVv-476" value="3" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="SXXYIsUc-o3HTAmLAMVv-457" vertex="1">
           <mxGeometry x="507.13" y="89" width="20" height="20" as="geometry" />
         </mxCell>
@@ -6055,9 +6055,6 @@
         </mxCell>
         <mxCell id="SXXYIsUc-o3HTAmLAMVv-479" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="SXXYIsUc-o3HTAmLAMVv-455" source="SXXYIsUc-o3HTAmLAMVv-467" target="SXXYIsUc-o3HTAmLAMVv-478" edge="1">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="SXXYIsUc-o3HTAmLAMVv-481" value="10" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="SXXYIsUc-o3HTAmLAMVv-455" vertex="1">
-          <mxGeometry x="1305" y="34" width="30" height="20" as="geometry" />
         </mxCell>
         <mxCell id="SXXYIsUc-o3HTAmLAMVv-542" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;BCCS&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;- Product Code&lt;/div&gt;&lt;div&gt;- Reason Code&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="SXXYIsUc-o3HTAmLAMVv-455" vertex="1">
           <mxGeometry x="68" y="56" width="130" height="59" as="geometry" />
@@ -6168,7 +6165,7 @@
           <mxGeometry x="252.89" y="160" width="30" height="20" as="geometry" />
         </mxCell>
         <mxCell id="SXXYIsUc-o3HTAmLAMVv-514" value="WS" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FF6666;" parent="SXXYIsUc-o3HTAmLAMVv-497" vertex="1">
-          <mxGeometry x="216.90999999999997" y="39" width="30.5" height="30.5" as="geometry" />
+          <mxGeometry x="226.15999999999997" y="68.53" width="30.5" height="30.5" as="geometry" />
         </mxCell>
         <mxCell id="gIHVHKnXwFZvZhHR3EeS-77" value="WS" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FF6666;" vertex="1" parent="SXXYIsUc-o3HTAmLAMVv-497">
           <mxGeometry x="458" y="44" width="30.5" height="30.5" as="geometry" />
@@ -6208,6 +6205,9 @@
         </mxCell>
         <mxCell id="gIHVHKnXwFZvZhHR3EeS-110" value="XXXXXXXXXXX" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="SXXYIsUc-o3HTAmLAMVv-497">
           <mxGeometry x="341.15000000000003" y="151.84000000000015" width="107.85" height="22.87" as="geometry" />
+        </mxCell>
+        <mxCell id="gIHVHKnXwFZvZhHR3EeS-132" value="Personalized URL : xxxxxxx/?tambo-store 1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="SXXYIsUc-o3HTAmLAMVv-497">
+          <mxGeometry x="8.72" y="32.87" width="240" height="20" as="geometry" />
         </mxCell>
         <mxCell id="SXXYIsUc-o3HTAmLAMVv-515" value="" style="swimlane;whiteSpace=wrap;startSize=0;" parent="1" vertex="1">
           <mxGeometry x="-120" y="5770" width="120" height="180" as="geometry" />
@@ -6361,6 +6361,36 @@
         </mxCell>
         <mxCell id="gIHVHKnXwFZvZhHR3EeS-123" value="7" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="862.04" y="5610.41" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="gIHVHKnXwFZvZhHR3EeS-124" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="1179.14" y="5495.08" width="20" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="gIHVHKnXwFZvZhHR3EeS-125" value="&lt;div&gt;&lt;b&gt;Questions&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="1201.14" y="5446.889999999999" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="gIHVHKnXwFZvZhHR3EeS-126" value="&lt;div&gt;1. Tambo stores are going to work through VPN ?&lt;/div&gt;&lt;div&gt;it dependes about security of landing page&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="1153.14" y="5490.36" width="270" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gIHVHKnXwFZvZhHR3EeS-127" value="&lt;div&gt;3. It is possible use white simcard that could &lt;br&gt;&lt;/div&gt;&lt;div&gt;generate chop prepaid / postpaid&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="1154.14" y="5567.36" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gIHVHKnXwFZvZhHR3EeS-128" value="&lt;div&gt;4. Legal questions : sales perspm can make &lt;br&gt;&lt;/div&gt;&lt;div&gt;checkboc in behalf of clients&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="1152.64" y="5614.08" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gIHVHKnXwFZvZhHR3EeS-131" value="5. Can it be possible to enable &lt;br&gt;&lt;div&gt;2 options of payment&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="1158.14" y="5652.419999999999" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gIHVHKnXwFZvZhHR3EeS-133" value="&lt;div&gt;2. In order to generate sinchroize order with ecommerce, &lt;br&gt;&lt;/div&gt;&lt;div&gt;is required to use personalized url as socio Bitel&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="1153.14" y="5528.36" width="310" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gIHVHKnXwFZvZhHR3EeS-134" value="6. Can it be possible to enable &lt;br&gt;&lt;div&gt;2 options of payment&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="1158.14" y="5697.5199999999995" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gIHVHKnXwFZvZhHR3EeS-135" value="&lt;div&gt;7 . It is possible to generate Tambo channel on BCCs that&lt;/div&gt;&lt;div&gt;dont require to pass throug,mBCCs, go straight to Activa Bite&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="1152.64" y="5750.08" width="330" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gIHVHKnXwFZvZhHR3EeS-137" value="&lt;div&gt;8 . What could happen if client is not able to activated &lt;br&gt;&lt;/div&gt;&lt;div&gt;through activa Bitel or fingerprint camera dont work&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="1163.14" y="5806.93" width="290" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
