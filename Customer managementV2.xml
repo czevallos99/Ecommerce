@@ -1,4 +1,4 @@
-<mxfile modified="2020-09-28T14:35:47.776Z" host="app.diagrams.net" agent="5.0 (Windows)" etag="v41s39C5YoyYa0DeayRK" version="13.7.4" type="github">
+<mxfile modified="2020-09-28T14:38:07.353Z" host="app.diagrams.net" agent="5.0 (Windows)" etag="epyo2eHA_YrAZ5fOeDH-" version="13.7.4" type="github">
   <diagram id="a8ff440f-91d0-836d-069a-c04da7e81235" name="Page-1">
     <mxGraphModel dx="4054" dy="644" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
       <root>
@@ -6084,7 +6084,7 @@
           <mxGeometry y="5430" width="1120" height="520" as="geometry" />
         </mxCell>
         <mxCell id="gIHVHKnXwFZvZhHR3EeS-111" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FFFFFF;" vertex="1" parent="SXXYIsUc-o3HTAmLAMVv-497">
-          <mxGeometry x="270.41" y="32.870000000000005" width="22.13" height="22.13" as="geometry" />
+          <mxGeometry x="381.87" y="24.000000000000007" width="22.13" height="22.13" as="geometry" />
         </mxCell>
         <mxCell id="SXXYIsUc-o3HTAmLAMVv-506" value="&lt;div&gt;&lt;font style=&quot;font-size: 9px&quot;&gt;Each change status of order&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 9px&quot;&gt;on ecommerce is able&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 9px&quot;&gt; to send email.&lt;/font&gt;&lt;/div&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="SXXYIsUc-o3HTAmLAMVv-497" vertex="1">
           <mxGeometry x="840" y="34.47" width="170" height="99" as="geometry" />
@@ -6134,11 +6134,11 @@
         <mxCell id="gIHVHKnXwFZvZhHR3EeS-41" value="XXXXXXXXXXXXX" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="SXXYIsUc-o3HTAmLAMVv-497">
           <mxGeometry x="109.67000000000002" y="99.02999999999975" width="116.49" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="gIHVHKnXwFZvZhHR3EeS-42" value="&lt;div&gt;&lt;b&gt;WHITTE &lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;SIMCARD&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="SXXYIsUc-o3HTAmLAMVv-497">
-          <mxGeometry x="18.309999999999988" y="99.03000000000065" width="70" height="30" as="geometry" />
+        <mxCell id="gIHVHKnXwFZvZhHR3EeS-42" value="&lt;div&gt;&lt;b&gt;White &lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Simcard&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="SXXYIsUc-o3HTAmLAMVv-497">
+          <mxGeometry x="29.99999999999999" y="100.00000000000065" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gIHVHKnXwFZvZhHR3EeS-43" value="&lt;b&gt;Type of Line&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="SXXYIsUc-o3HTAmLAMVv-497">
-          <mxGeometry x="12.229999999999961" y="150.27999999999975" width="90" height="20" as="geometry" />
+          <mxGeometry x="13.719999999999962" y="148.27999999999975" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="gIHVHKnXwFZvZhHR3EeS-44" value="Prepaid / Postpaid&amp;nbsp; V" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="SXXYIsUc-o3HTAmLAMVv-497">
           <mxGeometry x="107.94999999999999" y="143.27999999999975" width="123" height="30" as="geometry" />
@@ -6198,7 +6198,7 @@
           <mxGeometry x="484.5" y="153.27999999999975" width="30" height="20" as="geometry" />
         </mxCell>
         <mxCell id="SXXYIsUc-o3HTAmLAMVv-480" value="&lt;b&gt;1&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="SXXYIsUc-o3HTAmLAMVv-497" vertex="1">
-          <mxGeometry x="272.54" y="33" width="20" height="20" as="geometry" />
+          <mxGeometry x="384" y="24" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="gIHVHKnXwFZvZhHR3EeS-109" value="&lt;b&gt;Email&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="SXXYIsUc-o3HTAmLAMVv-497">
           <mxGeometry x="284.5899999999999" y="154.71000000000004" width="50" height="20" as="geometry" />
@@ -6206,8 +6206,8 @@
         <mxCell id="gIHVHKnXwFZvZhHR3EeS-110" value="XXXXXXXXXXX" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="SXXYIsUc-o3HTAmLAMVv-497">
           <mxGeometry x="341.15000000000003" y="151.84000000000015" width="107.85" height="22.87" as="geometry" />
         </mxCell>
-        <mxCell id="gIHVHKnXwFZvZhHR3EeS-132" value="Personalized URL : xxxxxxx/?tambo-store 1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="SXXYIsUc-o3HTAmLAMVv-497">
-          <mxGeometry x="8.72" y="32.87" width="240" height="20" as="geometry" />
+        <mxCell id="gIHVHKnXwFZvZhHR3EeS-132" value="&lt;u&gt;&lt;b&gt;Personalized URL : xxxxxxx/?tambo-store 1&lt;/b&gt;&lt;/u&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="SXXYIsUc-o3HTAmLAMVv-497">
+          <mxGeometry x="2.7200000000000006" y="27.869999999999997" width="260" height="20" as="geometry" />
         </mxCell>
         <mxCell id="SXXYIsUc-o3HTAmLAMVv-515" value="" style="swimlane;whiteSpace=wrap;startSize=0;" parent="1" vertex="1">
           <mxGeometry x="-120" y="5770" width="120" height="180" as="geometry" />
