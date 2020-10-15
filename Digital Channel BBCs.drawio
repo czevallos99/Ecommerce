@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-15T19:36:55.014Z" agent="5.0 (Windows)" etag="FbHsxidKdQYGOBnNOWV9" version="13.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-15T20:30:18.187Z" agent="5.0 (Windows)" etag="DqpuSxjkN-Vu9mOgTslK" version="13.8.0" type="github">
   <diagram id="y0MvCqDMI1tPlNCTdOtr" name="Page-1">
     <mxGraphModel dx="2957" dy="912" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2311,7 +2311,7 @@
           <mxGeometry x="180" y="146" width="350" height="274" as="geometry" />
         </mxCell>
         <mxCell id="XJYmyUc1JX8mig89W19H-34" value="&lt;b&gt;Catalogo&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="XJYmyUc1JX8mig89W19H-1">
-          <mxGeometry x="330" y="166" width="70" height="20" as="geometry" />
+          <mxGeometry x="353.5" y="166" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="XJYmyUc1JX8mig89W19H-35" value="Marca" style="whiteSpace=wrap;html=1;" vertex="1" parent="XJYmyUc1JX8mig89W19H-1">
           <mxGeometry x="190" y="216" width="80" height="24" as="geometry" />
@@ -2411,6 +2411,9 @@
             <mxPoint x="221.01" y="146" as="sourcePoint" />
             <mxPoint x="271.01" y="96" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="XJYmyUc1JX8mig89W19H-80" value="&lt;b&gt;Product Descriptiion&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="XJYmyUc1JX8mig89W19H-12">
+          <mxGeometry x="116.38" y="96" width="130" height="20" as="geometry" />
         </mxCell>
         <mxCell id="XJYmyUc1JX8mig89W19H-16" value="eCommerce page / Reserve" style="swimlane;shadow=1;startSize=23;" vertex="1" parent="1">
           <mxGeometry x="1139.99" y="2384" width="665.01" height="586" as="geometry" />
