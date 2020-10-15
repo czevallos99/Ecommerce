@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-10-15T21:19:02.765Z" agent="5.0 (Windows)" etag="pHTix1UjLTqmFKsRGOG0" version="13.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-15T21:22:18.658Z" agent="5.0 (Windows)" etag="kuqonnjJcdUh2v2Hp7Xu" version="13.8.0" type="github">
   <diagram id="y0MvCqDMI1tPlNCTdOtr" name="Page-1">
-    <mxGraphModel dx="3383" dy="1094" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4022" dy="1368" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2419,6 +2419,14 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="309.64000000000055" y="246.48999999999978" as="sourcePoint" />
             <mxPoint x="401.01" y="256" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XJYmyUc1JX8mig89W19H-96" value="Detect GPS" style="html=1;whiteSpace=wrap;rounded=1;dropTarget=0;fillColor=#66FFFF;" vertex="1" parent="XJYmyUc1JX8mig89W19H-12">
+          <mxGeometry x="295.01" y="66.88" width="85.01" height="49.12" as="geometry" />
+        </mxCell>
+        <mxCell id="XJYmyUc1JX8mig89W19H-97" value="" style="shape=mxgraph.bpmn.timer_start;perimeter=ellipsePerimeter;html=1;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;" vertex="1" parent="XJYmyUc1JX8mig89W19H-96">
+          <mxGeometry x="1" y="1" width="30" height="30" relative="1" as="geometry">
+            <mxPoint x="-40" y="-15" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="XJYmyUc1JX8mig89W19H-16" value="Personal Details" style="swimlane;shadow=1;startSize=23;" vertex="1" parent="1">
