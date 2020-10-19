@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-10-19T17:03:27.871Z" agent="5.0 (Windows)" etag="MMwX3oX9eApcsSuWPUp1" version="13.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-19T19:18:07.559Z" agent="5.0 (Windows)" etag="BTi_QRVDAeqAu6iPInvp" version="13.8.0" type="github">
   <diagram id="y0MvCqDMI1tPlNCTdOtr" name="Page-1">
-    <mxGraphModel dx="3204" dy="912" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3739" dy="1338" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1538,8 +1538,8 @@
         <mxCell id="XJYmyUc1JX8mig89W19H-87" value="Tratamiento de Datos" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="XJYmyUc1JX8mig89W19H-16" vertex="1">
           <mxGeometry x="111.01000000000005" y="283" width="130" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="XJYmyUc1JX8mig89W19H-30" value="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;Generate Order of Handset&lt;/b&gt;&lt;/font&gt; &lt;b&gt;1&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
-          <mxGeometry x="477" y="1510" width="200" height="20" as="geometry" />
+        <mxCell id="XJYmyUc1JX8mig89W19H-30" value="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;Opcioon 1 :&lt;font style=&quot;font-size: 14px&quot;&gt;Generate Order of Handset&lt;/font&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
+          <mxGeometry x="432" y="1510" width="290" height="20" as="geometry" />
         </mxCell>
         <mxCell id="XJYmyUc1JX8mig89W19H-32" value="Delivery information" style="swimlane;shadow=1;startSize=23;" parent="1" vertex="1">
           <mxGeometry x="1684" y="1544" width="580" height="496" as="geometry" />
@@ -1837,8 +1837,8 @@
         <mxCell id="8GW9L5wq3QcSJxP6S17S-132" value="Tratamiento de Datos" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="8GW9L5wq3QcSJxP6S17S-125">
           <mxGeometry x="111.01000000000005" y="326" width="130" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="8GW9L5wq3QcSJxP6S17S-133" value="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;Generate Order of Handset&lt;/b&gt;&lt;/font&gt; &lt;b&gt;2&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="412.72" y="2120" width="200" height="20" as="geometry" />
+        <mxCell id="8GW9L5wq3QcSJxP6S17S-133" value="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;Option 2 &lt;/b&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;Generate Order of Handset&lt;/b&gt;&lt;/font&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="377.72" y="2120" width="270" height="20" as="geometry" />
         </mxCell>
         <mxCell id="8GW9L5wq3QcSJxP6S17S-134" value="Delivery information" style="swimlane;shadow=1;startSize=23;" vertex="1" parent="1">
           <mxGeometry x="1619.72" y="2154" width="580" height="496" as="geometry" />
@@ -1976,7 +1976,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8GW9L5wq3QcSJxP6S17S-238" value="&lt;b&gt;Priority Validation sotck&lt;/b&gt;&lt;br&gt;&lt;div&gt;- same place delivery 2 days&lt;/div&gt;&lt;div&gt;- Other place delivery 4 days&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="2220" y="2440" width="160" height="50" as="geometry" />
+          <mxGeometry x="2220" y="2280" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="8GW9L5wq3QcSJxP6S17S-239" value="&lt;b&gt;Final Page&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="2230" y="2154" width="70" height="20" as="geometry" />
