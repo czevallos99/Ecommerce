@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-10-19T14:36:09.739Z" agent="5.0 (Windows)" etag="pTT5r_GlN42W5vuRw9Ml" version="13.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-19T16:53:48.965Z" agent="5.0 (Windows)" etag="n18qhklC_nZ62W3XCFb9" version="13.8.0" type="github">
   <diagram id="y0MvCqDMI1tPlNCTdOtr" name="Page-1">
-    <mxGraphModel dx="4478" dy="1563" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3204" dy="912" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1774,9 +1774,6 @@
         <mxCell id="8GW9L5wq3QcSJxP6S17S-100" value="Comprar" style="whiteSpace=wrap;html=1;fillColor=#33FF99;" vertex="1" parent="8GW9L5wq3QcSJxP6S17S-93">
           <mxGeometry x="284.65999999999997" y="169.12" width="80" height="24" as="geometry" />
         </mxCell>
-        <mxCell id="8GW9L5wq3QcSJxP6S17S-101" value="&lt;div&gt;Estimated time of delivery&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;u&gt;Change direccion&lt;/u&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="8GW9L5wq3QcSJxP6S17S-93">
-          <mxGeometry x="260.65" y="209.49" width="150" height="50.51" as="geometry" />
-        </mxCell>
         <mxCell id="8GW9L5wq3QcSJxP6S17S-107" value="RAM" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="8GW9L5wq3QcSJxP6S17S-93">
           <mxGeometry x="133.65" y="290" width="50.36" height="30" as="geometry" />
         </mxCell>
@@ -1896,14 +1893,6 @@
         </mxCell>
         <mxCell id="8GW9L5wq3QcSJxP6S17S-219" value="Address" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="8GW9L5wq3QcSJxP6S17S-139">
           <mxGeometry x="104.27" y="326.98" width="305.73" height="34" as="geometry" />
-        </mxCell>
-        <mxCell id="8GW9L5wq3QcSJxP6S17S-220" value="Detect GPS" style="html=1;whiteSpace=wrap;rounded=1;dropTarget=0;fillColor=#66FFFF;" vertex="1" parent="8GW9L5wq3QcSJxP6S17S-139">
-          <mxGeometry x="369.52" y="136" width="85.01" height="49.12" as="geometry" />
-        </mxCell>
-        <mxCell id="8GW9L5wq3QcSJxP6S17S-221" value="" style="shape=mxgraph.bpmn.timer_start;perimeter=ellipsePerimeter;html=1;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;" vertex="1" parent="8GW9L5wq3QcSJxP6S17S-220">
-          <mxGeometry x="1" y="1" width="30" height="30" relative="1" as="geometry">
-            <mxPoint x="-40" y="-15" as="offset" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="8GW9L5wq3QcSJxP6S17S-223" value="&lt;div&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;You can find &lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;this Handset &lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;on Bitel Stores&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="8GW9L5wq3QcSJxP6S17S-139">
           <mxGeometry x="518.77" y="346" width="80" height="50" as="geometry" />
