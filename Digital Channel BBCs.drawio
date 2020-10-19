@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-19T14:31:21.526Z" agent="5.0 (Windows)" etag="3OlUMsLOoqKzA1d18Itl" version="13.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-19T14:31:45.470Z" agent="5.0 (Windows)" etag="A51Y3FzhsjJ5uzjrD5OX" version="13.8.0" type="github">
   <diagram id="y0MvCqDMI1tPlNCTdOtr" name="Page-1">
     <mxGraphModel dx="2331" dy="644" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1668,12 +1668,6 @@
         <mxCell id="8GW9L5wq3QcSJxP6S17S-50" value="" style="shape=mxgraph.bpmn.timer_start;perimeter=ellipsePerimeter;html=1;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;" vertex="1" parent="8GW9L5wq3QcSJxP6S17S-49">
           <mxGeometry x="1" y="1" width="30" height="30" relative="1" as="geometry">
             <mxPoint x="-40" y="-15" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="8GW9L5wq3QcSJxP6S17S-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="8GW9L5wq3QcSJxP6S17S-26">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="521.5049999999999" y="264" as="sourcePoint" />
-            <mxPoint x="522.01" y="319.99999999999955" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="8GW9L5wq3QcSJxP6S17S-53" value="Si" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="8GW9L5wq3QcSJxP6S17S-26">
