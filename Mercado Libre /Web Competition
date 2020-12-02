@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-02T19:46:15.272Z" agent="5.0 (Windows)" etag="A10Uk__WieHcIvOA-ap2" version="13.10.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-02T20:09:34.805Z" agent="5.0 (Windows)" etag="gerxg5y87xr-68f6JiP7" version="13.10.5" type="github">
   <diagram id="84FaqSrycX9Bbl5tSsov" name="Page-1">
     <mxGraphModel dx="1360" dy="831" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1740,7 +1740,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ymTZtTDndmsVaZoya3lK-10" value="" style="rounded=1;whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="1457.01" y="2209.47" width="440.13" height="425.15" as="geometry" />
+          <mxGeometry x="1479.97" y="2186.5" width="453.4" height="484.35" as="geometry" />
         </mxCell>
         <mxCell id="ymTZtTDndmsVaZoya3lK-11" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="1480.9600000000003" y="2232.9999999999995" width="75.43" height="31.49" as="geometry" />
@@ -1754,7 +1754,7 @@
         <mxCell id="ymTZtTDndmsVaZoya3lK-14" value="&lt;div&gt;Contenidos&lt;/div&gt;&lt;div&gt;Textos&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="1480.2100000000003" y="2283.5299999999997" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ymTZtTDndmsVaZoya3lK-15" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="ymTZtTDndmsVaZoya3lK-15" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#33FF33;" vertex="1" parent="1">
           <mxGeometry x="1481.7200000000003" y="2327.5999999999995" width="75.43" height="31.49" as="geometry" />
         </mxCell>
         <mxCell id="ymTZtTDndmsVaZoya3lK-16" value="Participantes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
@@ -1763,35 +1763,275 @@
         <mxCell id="ymTZtTDndmsVaZoya3lK-17" value="Perfiles Dashboard" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="1479.4500000000003" y="2370.6299999999997" width="75.43" height="31.49" as="geometry" />
         </mxCell>
-        <mxCell id="ymTZtTDndmsVaZoya3lK-18" value="" style="endArrow=none;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="ymTZtTDndmsVaZoya3lK-10" target="ymTZtTDndmsVaZoya3lK-10">
+        <mxCell id="ymTZtTDndmsVaZoya3lK-18" value="" style="endArrow=none;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1609.77" y="2290" as="sourcePoint" />
-            <mxPoint x="1659.77" y="2240" as="targetPoint" />
+            <mxPoint x="1566.6499999999996" y="2642.105" as="sourcePoint" />
+            <mxPoint x="1566.6499999999996" y="2201.975" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ymTZtTDndmsVaZoya3lK-19" value="Texto 1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="1587.1000000000001" y="2220.7099999999996" width="50" height="20" as="geometry" />
+        <mxCell id="ymTZtTDndmsVaZoya3lK-19" value="&lt;u&gt;&lt;b&gt;Participantes&lt;/b&gt;&lt;/u&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="1590.0000000000002" y="2219.9999999999995" width="90" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="ymTZtTDndmsVaZoya3lK-20" value="Como Participar" style="html=1;whiteSpace=wrap;container=1;recursiveResize=0;collapsible=0;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="1652.32" y="2223.22" width="168.67" height="16.78" as="geometry" />
+        <mxCell id="ymTZtTDndmsVaZoya3lK-20" value="" style="html=1;whiteSpace=wrap;container=1;recursiveResize=0;collapsible=0;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="1580" y="2260" width="340" height="370" as="geometry" />
         </mxCell>
-        <mxCell id="ymTZtTDndmsVaZoya3lK-21" value="Text" style="html=1;whiteSpace=wrap;container=1;recursiveResize=0;collapsible=0;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="1652.32" y="2258.71" width="168.67" height="121.29" as="geometry" />
+        <mxCell id="ymTZtTDndmsVaZoya3lK-28" value="Foto" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FFFFFF;" vertex="1" parent="ymTZtTDndmsVaZoya3lK-20">
+          <mxGeometry x="20.50999999999999" y="20" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ymTZtTDndmsVaZoya3lK-22" value="Texto 2" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="1587.2700000000002" y="2407.1199999999994" width="50" height="20" as="geometry" />
+        <mxCell id="ymTZtTDndmsVaZoya3lK-29" value="Nombre y Apeliido" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="ymTZtTDndmsVaZoya3lK-20">
+          <mxGeometry x="63.75" y="29.289999999999964" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="ymTZtTDndmsVaZoya3lK-23" value="Conoce las reglas" style="html=1;whiteSpace=wrap;container=1;recursiveResize=0;collapsible=0;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="1655.49" y="2404.6299999999997" width="168.67" height="16.78" as="geometry" />
+        <mxCell id="ymTZtTDndmsVaZoya3lK-31" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="ymTZtTDndmsVaZoya3lK-20">
+          <mxGeometry x="-1.490000000000009" y="29.289999999999964" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="ymTZtTDndmsVaZoya3lK-24" value="Text" style="html=1;whiteSpace=wrap;container=1;recursiveResize=0;collapsible=0;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="1655.49" y="2440.12" width="168.67" height="121.29" as="geometry" />
+        <mxCell id="ymTZtTDndmsVaZoya3lK-52" value="Nombre" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="ymTZtTDndmsVaZoya3lK-20">
+          <mxGeometry x="90" y="-2" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="ymTZtTDndmsVaZoya3lK-25" value="Crear modulo de texto" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="1645" y="2589.2" width="140" height="20" as="geometry" />
+        <mxCell id="ymTZtTDndmsVaZoya3lK-54" value="Status" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="ymTZtTDndmsVaZoya3lK-20">
+          <mxGeometry x="276" y="-2" width="50" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="ymTZtTDndmsVaZoya3lK-26" value="" style="shape=orEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
-          <mxGeometry x="1797.14" y="2589.2" width="20" height="20" as="geometry" />
+        <mxCell id="ymTZtTDndmsVaZoya3lK-55" value="Pass" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="ymTZtTDndmsVaZoya3lK-20">
+          <mxGeometry x="285" y="133" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ymTZtTDndmsVaZoya3lK-56" value="Pass" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="ymTZtTDndmsVaZoya3lK-20">
+          <mxGeometry x="281" y="240" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ymTZtTDndmsVaZoya3lK-57" value="Pass" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="ymTZtTDndmsVaZoya3lK-20">
+          <mxGeometry x="281" y="290" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ymTZtTDndmsVaZoya3lK-58" value="Eminado" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="ymTZtTDndmsVaZoya3lK-20">
+          <mxGeometry x="266" y="29.289999999999964" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ymTZtTDndmsVaZoya3lK-59" value="Eminado" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="ymTZtTDndmsVaZoya3lK-20">
+          <mxGeometry x="270" y="78" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ymTZtTDndmsVaZoya3lK-60" value="Eminado" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="ymTZtTDndmsVaZoya3lK-20">
+          <mxGeometry x="270" y="187" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ymTZtTDndmsVaZoya3lK-27" value="Catetgoria V" style="html=1;whiteSpace=wrap;container=1;recursiveResize=0;collapsible=0;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="1686.18" y="2223.93" width="103.82" height="16.78" as="geometry" />
+        </mxCell>
+        <mxCell id="ymTZtTDndmsVaZoya3lK-30" value="Ver Perfil" style="html=1;whiteSpace=wrap;container=1;recursiveResize=0;collapsible=0;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="1777.24" y="2290.14" width="67.76" height="16.78" as="geometry" />
+        </mxCell>
+        <mxCell id="ymTZtTDndmsVaZoya3lK-32" value="Foto" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="1600.51" y="2332" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ymTZtTDndmsVaZoya3lK-33" value="Nombre y Apeliido" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="1643.75" y="2341.29" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ymTZtTDndmsVaZoya3lK-34" value="2" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="1578.51" y="2341.29" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ymTZtTDndmsVaZoya3lK-35" value="Ver Perfil" style="html=1;whiteSpace=wrap;container=1;recursiveResize=0;collapsible=0;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="1777.24" y="2342.14" width="67.76" height="16.78" as="geometry" />
+        </mxCell>
+        <mxCell id="ymTZtTDndmsVaZoya3lK-36" value="Foto" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="1600.51" y="2384" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ymTZtTDndmsVaZoya3lK-37" value="Nombre y Apeliido" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="1643.75" y="2393.29" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ymTZtTDndmsVaZoya3lK-38" value="3" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="1578.51" y="2393.29" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ymTZtTDndmsVaZoya3lK-39" value="Ver Perfil" style="html=1;whiteSpace=wrap;container=1;recursiveResize=0;collapsible=0;fillColor=#33FF33;" vertex="1" parent="1">
+          <mxGeometry x="1777.24" y="2394.14" width="67.76" height="16.78" as="geometry" />
+        </mxCell>
+        <mxCell id="ymTZtTDndmsVaZoya3lK-40" value="Foto" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="1600.51" y="2438" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ymTZtTDndmsVaZoya3lK-41" value="Nombre y Apeliido" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="1643.75" y="2447.29" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ymTZtTDndmsVaZoya3lK-42" value="4" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="1578.51" y="2447.29" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ymTZtTDndmsVaZoya3lK-43" value="Ver Perfil" style="html=1;whiteSpace=wrap;container=1;recursiveResize=0;collapsible=0;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="1777.24" y="2448.14" width="67.76" height="16.78" as="geometry" />
+        </mxCell>
+        <mxCell id="ymTZtTDndmsVaZoya3lK-44" value="Foto" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="1600.51" y="2490" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ymTZtTDndmsVaZoya3lK-45" value="Nombre y Apeliido" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="1643.75" y="2499.29" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ymTZtTDndmsVaZoya3lK-46" value="5" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="1578.51" y="2499.29" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ymTZtTDndmsVaZoya3lK-47" value="Ver Perfil" style="html=1;whiteSpace=wrap;container=1;recursiveResize=0;collapsible=0;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="1777.24" y="2500.14" width="67.76" height="16.78" as="geometry" />
+        </mxCell>
+        <mxCell id="ymTZtTDndmsVaZoya3lK-48" value="Foto" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="1600.51" y="2540" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ymTZtTDndmsVaZoya3lK-49" value="Nombre y Apeliido" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="1643.75" y="2549.29" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ymTZtTDndmsVaZoya3lK-50" value="6" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="1578.51" y="2549.29" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ymTZtTDndmsVaZoya3lK-51" value="Ver Perfil" style="html=1;whiteSpace=wrap;container=1;recursiveResize=0;collapsible=0;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="1777.24" y="2550.14" width="67.76" height="16.78" as="geometry" />
+        </mxCell>
+        <mxCell id="ymTZtTDndmsVaZoya3lK-53" value="" style="endArrow=none;html=1;entryX=1.006;entryY=0.043;entryDx=0;entryDy=0;entryPerimeter=0;exitX=-0.003;exitY=0.046;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="ymTZtTDndmsVaZoya3lK-20" target="ymTZtTDndmsVaZoya3lK-20">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1440" y="2370" as="sourcePoint" />
+            <mxPoint x="1490" y="2320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ymTZtTDndmsVaZoya3lK-61" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2149.2422950819673" y="2321.859999999999" as="sourcePoint" />
+            <mxPoint x="2144.8999999999996" y="2324.060000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ymTZtTDndmsVaZoya3lK-62" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2144.8999999999996" y="2304.060000000001" as="sourcePoint" />
+            <mxPoint x="2143.9799999999996" y="2303.761993355482" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ymTZtTDndmsVaZoya3lK-63" value="" style="rounded=1;whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="1996.76" y="2186.5" width="453.4" height="484.35" as="geometry" />
+        </mxCell>
+        <mxCell id="ymTZtTDndmsVaZoya3lK-64" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="1997.7500000000002" y="2232.9999999999995" width="75.43" height="31.49" as="geometry" />
+        </mxCell>
+        <mxCell id="ymTZtTDndmsVaZoya3lK-65" value="&lt;div&gt;Contenidos&lt;/div&gt;&lt;div&gt;Imagenes&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="1996.2400000000002" y="2233.74" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ymTZtTDndmsVaZoya3lK-66" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="1998.5100000000002" y="2282.7899999999995" width="75.43" height="31.49" as="geometry" />
+        </mxCell>
+        <mxCell id="ymTZtTDndmsVaZoya3lK-67" value="&lt;div&gt;Contenidos&lt;/div&gt;&lt;div&gt;Textos&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="1997.0000000000002" y="2283.5299999999997" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ymTZtTDndmsVaZoya3lK-68" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#33FF33;" vertex="1" parent="1">
+          <mxGeometry x="1998.5100000000002" y="2327.5999999999995" width="75.43" height="31.49" as="geometry" />
+        </mxCell>
+        <mxCell id="ymTZtTDndmsVaZoya3lK-69" value="Participantes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="1995.0000000000002" y="2333.3399999999997" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ymTZtTDndmsVaZoya3lK-70" value="Perfiles Dashboard" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="1996.2400000000002" y="2370.6299999999997" width="75.43" height="31.49" as="geometry" />
+        </mxCell>
+        <mxCell id="ymTZtTDndmsVaZoya3lK-71" value="" style="endArrow=none;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2083.4399999999996" y="2642.105" as="sourcePoint" />
+            <mxPoint x="2083.4399999999996" y="2201.975" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ymTZtTDndmsVaZoya3lK-72" value="&lt;u&gt;&lt;b&gt;Participantes&lt;/b&gt;&lt;/u&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="2106.79" y="2219.9999999999995" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ymTZtTDndmsVaZoya3lK-73" value="" style="html=1;whiteSpace=wrap;container=1;recursiveResize=0;collapsible=0;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="2096.79" y="2260" width="340" height="370" as="geometry" />
+        </mxCell>
+        <mxCell id="ymTZtTDndmsVaZoya3lK-74" value="Foto" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FFFFFF;" vertex="1" parent="ymTZtTDndmsVaZoya3lK-73">
+          <mxGeometry x="20.50999999999999" y="20" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ymTZtTDndmsVaZoya3lK-75" value="Nombre y Apeliido" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="ymTZtTDndmsVaZoya3lK-73">
+          <mxGeometry x="63.75" y="29.289999999999964" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ymTZtTDndmsVaZoya3lK-76" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="ymTZtTDndmsVaZoya3lK-73">
+          <mxGeometry x="-1.490000000000009" y="29.289999999999964" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ymTZtTDndmsVaZoya3lK-77" value="Nombre" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="ymTZtTDndmsVaZoya3lK-73">
+          <mxGeometry x="90" y="-2" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ymTZtTDndmsVaZoya3lK-78" value="Status" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="ymTZtTDndmsVaZoya3lK-73">
+          <mxGeometry x="276" y="-2" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ymTZtTDndmsVaZoya3lK-79" value="Pass" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="ymTZtTDndmsVaZoya3lK-73">
+          <mxGeometry x="285" y="133" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ymTZtTDndmsVaZoya3lK-80" value="Pass" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="ymTZtTDndmsVaZoya3lK-73">
+          <mxGeometry x="281" y="240" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ymTZtTDndmsVaZoya3lK-81" value="Pass" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="ymTZtTDndmsVaZoya3lK-73">
+          <mxGeometry x="281" y="290" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ymTZtTDndmsVaZoya3lK-82" value="Eminado" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="ymTZtTDndmsVaZoya3lK-73">
+          <mxGeometry x="266" y="29.289999999999964" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ymTZtTDndmsVaZoya3lK-83" value="Eminado" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="ymTZtTDndmsVaZoya3lK-73">
+          <mxGeometry x="270" y="78" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ymTZtTDndmsVaZoya3lK-84" value="Eminado" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="ymTZtTDndmsVaZoya3lK-73">
+          <mxGeometry x="270" y="187" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ymTZtTDndmsVaZoya3lK-85" value="Catetgoria V" style="html=1;whiteSpace=wrap;container=1;recursiveResize=0;collapsible=0;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="2202.9700000000003" y="2223.93" width="103.82" height="16.78" as="geometry" />
+        </mxCell>
+        <mxCell id="ymTZtTDndmsVaZoya3lK-86" value="Ver Perfil" style="html=1;whiteSpace=wrap;container=1;recursiveResize=0;collapsible=0;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="2294.0299999999997" y="2290.14" width="67.76" height="16.78" as="geometry" />
+        </mxCell>
+        <mxCell id="ymTZtTDndmsVaZoya3lK-87" value="Foto" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="2117.3" y="2332" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ymTZtTDndmsVaZoya3lK-88" value="Nombre y Apeliido" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="2160.54" y="2341.29" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ymTZtTDndmsVaZoya3lK-89" value="2" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="2095.3" y="2341.29" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ymTZtTDndmsVaZoya3lK-90" value="Ver Perfil" style="html=1;whiteSpace=wrap;container=1;recursiveResize=0;collapsible=0;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="2294.0299999999997" y="2342.14" width="67.76" height="16.78" as="geometry" />
+        </mxCell>
+        <mxCell id="ymTZtTDndmsVaZoya3lK-91" value="Foto" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="2117.3" y="2384" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ymTZtTDndmsVaZoya3lK-92" value="Nombre y Apeliido" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="2160.54" y="2393.29" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ymTZtTDndmsVaZoya3lK-93" value="3" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="2095.3" y="2393.29" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ymTZtTDndmsVaZoya3lK-94" value="Ver Perfil" style="html=1;whiteSpace=wrap;container=1;recursiveResize=0;collapsible=0;fillColor=#33FF33;" vertex="1" parent="1">
+          <mxGeometry x="2294.0299999999997" y="2394.14" width="67.76" height="16.78" as="geometry" />
+        </mxCell>
+        <mxCell id="ymTZtTDndmsVaZoya3lK-95" value="Foto" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="2117.3" y="2438" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ymTZtTDndmsVaZoya3lK-96" value="Nombre y Apeliido" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="2160.54" y="2447.29" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ymTZtTDndmsVaZoya3lK-97" value="4" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="2095.3" y="2447.29" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ymTZtTDndmsVaZoya3lK-98" value="Ver Perfil" style="html=1;whiteSpace=wrap;container=1;recursiveResize=0;collapsible=0;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="2294.0299999999997" y="2448.14" width="67.76" height="16.78" as="geometry" />
+        </mxCell>
+        <mxCell id="ymTZtTDndmsVaZoya3lK-99" value="Foto" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="2117.3" y="2490" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ymTZtTDndmsVaZoya3lK-100" value="Nombre y Apeliido" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="2160.54" y="2499.29" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ymTZtTDndmsVaZoya3lK-101" value="5" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="2095.3" y="2499.29" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ymTZtTDndmsVaZoya3lK-102" value="Ver Perfil" style="html=1;whiteSpace=wrap;container=1;recursiveResize=0;collapsible=0;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="2294.0299999999997" y="2500.14" width="67.76" height="16.78" as="geometry" />
+        </mxCell>
+        <mxCell id="ymTZtTDndmsVaZoya3lK-103" value="Foto" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="2117.3" y="2540" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ymTZtTDndmsVaZoya3lK-104" value="Nombre y Apeliido" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="2160.54" y="2549.29" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ymTZtTDndmsVaZoya3lK-105" value="6" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="2095.3" y="2549.29" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ymTZtTDndmsVaZoya3lK-106" value="Ver Perfil" style="html=1;whiteSpace=wrap;container=1;recursiveResize=0;collapsible=0;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="2294.0299999999997" y="2550.14" width="67.76" height="16.78" as="geometry" />
+        </mxCell>
+        <mxCell id="ymTZtTDndmsVaZoya3lK-107" value="" style="endArrow=none;html=1;entryX=1.006;entryY=0.043;entryDx=0;entryDy=0;entryPerimeter=0;exitX=-0.003;exitY=0.046;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="ymTZtTDndmsVaZoya3lK-73" target="ymTZtTDndmsVaZoya3lK-73">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1956.79" y="2370" as="sourcePoint" />
+            <mxPoint x="2006.79" y="2320" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
