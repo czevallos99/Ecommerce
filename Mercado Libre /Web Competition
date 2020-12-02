@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-12-02T21:37:21.275Z" agent="5.0 (Windows)" etag="oXEzELsETPGHTiHmR_6D" version="13.10.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-02T21:39:06.878Z" agent="5.0 (Windows)" etag="yySXKy-SFFdg7sNjrtrV" version="13.10.5" type="github">
   <diagram id="84FaqSrycX9Bbl5tSsov" name="Page-1">
-    <mxGraphModel dx="1038" dy="575" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1278" dy="575" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2173,6 +2173,21 @@
         </mxCell>
         <mxCell id="ymTZtTDndmsVaZoya3lK-197" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;shadow=0;fillColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="2824.78" y="2294.28" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ymTZtTDndmsVaZoya3lK-205" value="Cerrar" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="519.6800000000003" y="2423.9999999999995" width="75.43" height="31.49" as="geometry" />
+        </mxCell>
+        <mxCell id="ymTZtTDndmsVaZoya3lK-206" value="Cerrar" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="999.5100000000002" y="2419.0299999999997" width="75.43" height="31.49" as="geometry" />
+        </mxCell>
+        <mxCell id="ymTZtTDndmsVaZoya3lK-207" value="Cerrar" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="1482.7800000000002" y="2423.9999999999995" width="75.43" height="31.49" as="geometry" />
+        </mxCell>
+        <mxCell id="ymTZtTDndmsVaZoya3lK-208" value="Cerrar" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="1998.5100000000002" y="2427.1199999999994" width="75.43" height="31.49" as="geometry" />
+        </mxCell>
+        <mxCell id="ymTZtTDndmsVaZoya3lK-209" value="Cerrar" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="2534.57" y="2419.0299999999993" width="75.43" height="31.49" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
