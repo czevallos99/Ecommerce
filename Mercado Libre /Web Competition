@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-02T20:24:28.512Z" agent="5.0 (Windows)" etag="TvRo8aVev1jwdNtIqBnO" version="13.10.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-02T20:26:21.673Z" agent="5.0 (Windows)" etag="qUd9HeZpax9QKNi9U9sI" version="13.10.5" type="github">
   <diagram id="84FaqSrycX9Bbl5tSsov" name="Page-1">
     <mxGraphModel dx="1360" dy="831" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1808,6 +1808,9 @@
         <mxCell id="ymTZtTDndmsVaZoya3lK-60" value="Eminado" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="ymTZtTDndmsVaZoya3lK-20">
           <mxGeometry x="270" y="187" width="70" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="ymTZtTDndmsVaZoya3lK-120" value="80 candidatos &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp; &amp;lt;&amp;lt;15 &amp;gt;&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="ymTZtTDndmsVaZoya3lK-20">
+          <mxGeometry x="170" y="340" width="160" height="20" as="geometry" />
+        </mxCell>
         <mxCell id="ymTZtTDndmsVaZoya3lK-27" value="Catetgoria V" style="html=1;whiteSpace=wrap;container=1;recursiveResize=0;collapsible=0;fillColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="1686.18" y="2223.93" width="103.82" height="16.78" as="geometry" />
         </mxCell>
@@ -1962,6 +1965,12 @@
               <mxPoint x="313.21000000000004" y="73" />
               <mxPoint x="303.21000000000004" y="63" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ymTZtTDndmsVaZoya3lK-121" value="" style="endArrow=none;dashed=1;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2096" y="2490" as="sourcePoint" />
+            <mxPoint x="2440" y="2490" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
