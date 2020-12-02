@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-02T13:02:40.564Z" agent="5.0 (Windows)" etag="g3xAqntZLtU8hiFKUks6" version="13.10.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-02T13:05:56.953Z" agent="5.0 (Windows)" etag="kGPGET-Y90yOb_D6TnUE" version="13.10.5" type="github">
   <diagram id="84FaqSrycX9Bbl5tSsov" name="Page-1">
     <mxGraphModel dx="1221" dy="676" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1015,7 +1015,7 @@
         <mxCell id="tFlrbiyxlAgpjM0rXvHN-350" value="Ubicacion" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="234.70999999999998" y="1975.74" width="70" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="tFlrbiyxlAgpjM0rXvHN-351" value="&amp;nbsp;&amp;nbsp;&amp;nbsp; Video" style="html=1;whiteSpace=wrap;container=1;recursiveResize=0;collapsible=0;fillColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="tFlrbiyxlAgpjM0rXvHN-351" value="&amp;nbsp;&amp;nbsp;&amp;nbsp; Video" style="html=1;whiteSpace=wrap;container=1;recursiveResize=0;collapsible=0;fillColor=#33FF33;" vertex="1" parent="1">
           <mxGeometry x="245.71" y="2007" width="102.13" height="50" as="geometry" />
         </mxCell>
         <mxCell id="tFlrbiyxlAgpjM0rXvHN-352" value="" style="triangle;html=1;whiteSpace=wrap;" vertex="1" parent="tFlrbiyxlAgpjM0rXvHN-351">
@@ -1413,6 +1413,15 @@
         </mxCell>
         <mxCell id="tFlrbiyxlAgpjM0rXvHN-472" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="602.71" y="2530" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="tFlrbiyxlAgpjM0rXvHN-473" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B3B3B3;" vertex="1" parent="1">
+          <mxGeometry x="480" y="1910" width="310" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="tFlrbiyxlAgpjM0rXvHN-474" value="X" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="740.12" y="1920" width="17.97" height="17.97" as="geometry" />
+        </mxCell>
+        <mxCell id="tFlrbiyxlAgpjM0rXvHN-475" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="490" y="1970" width="290" height="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
