@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-02T13:40:01.916Z" agent="5.0 (Windows)" etag="gPi95Bat74OH3pYQmAsv" version="13.10.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-02T13:41:45.706Z" agent="5.0 (Windows)" etag="TSJCCh4BgObCtue7jC4-" version="13.10.5" type="github">
   <diagram id="84FaqSrycX9Bbl5tSsov" name="Page-1">
     <mxGraphModel dx="1038" dy="575" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -841,8 +841,8 @@
         <mxCell id="tFlrbiyxlAgpjM0rXvHN-254" value="Guardar" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="2437.03" y="1218.94" width="120" height="33" as="geometry" />
         </mxCell>
-        <mxCell id="tFlrbiyxlAgpjM0rXvHN-255" value="Mi Biografia" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="2772.99" y="1026" width="80" height="20" as="geometry" />
+        <mxCell id="tFlrbiyxlAgpjM0rXvHN-255" value="Mensaje a la audiencia" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="2781.18" y="1026" width="130" height="20" as="geometry" />
         </mxCell>
         <mxCell id="tFlrbiyxlAgpjM0rXvHN-256" value="&lt;font style=&quot;font-size: 10px&quot;&gt;Max 300 Palabras&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="2786.13" y="1061.07" width="100" height="20" as="geometry" />
