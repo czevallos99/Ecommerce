@@ -1,4 +1,4 @@
-<mxfile modified="2021-04-15T11:05:11.951Z" host="app.diagrams.net" agent="5.0 (Windows)" etag="3Ds9cKLISkuD70oTYm0S" version="14.5.8" type="github">
+<mxfile modified="2021-04-15T11:15:48.664Z" host="app.diagrams.net" agent="5.0 (Windows)" etag="6o5elfFBP18r6zboiGoF" version="14.5.8" type="github">
   <diagram id="a8ff440f-91d0-836d-069a-c04da7e81235" name="Page-1">
     <mxGraphModel dx="4223" dy="898" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
       <root>
@@ -2050,7 +2050,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="E0TeUN1zNWyByP_pj73Z-88" value="&lt;div&gt;Earn Coin&lt;/div&gt;&lt;div&gt;Gamming Platform&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;fillColor=#FFFFFF;" vertex="1" parent="SXXYIsUc-o3HTAmLAMVv-201">
-          <mxGeometry x="1350" y="276.97999999999996" width="80" height="39.47" as="geometry" />
+          <mxGeometry x="1350" y="276.98" width="80" height="53.02" as="geometry" />
         </mxCell>
         <mxCell id="E0TeUN1zNWyByP_pj73Z-93" value="" style="endArrow=none;dashed=1;html=1;" edge="1" parent="SXXYIsUc-o3HTAmLAMVv-201">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -4086,12 +4086,6 @@
         <mxCell id="E0TeUN1zNWyByP_pj73Z-6" value="GAMING PORTAL" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;rotation=-90;" vertex="1" parent="1">
           <mxGeometry x="-1105.5" y="6930" width="110" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="SXXYIsUc-o3HTAmLAMVv-239" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="-1300" y="6591.87" width="20" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="SXXYIsUc-o3HTAmLAMVv-240" value="&lt;div&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;Tratamientode datos&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
-          <mxGeometry x="-1280" y="6590" width="110" height="20" as="geometry" />
-        </mxCell>
         <mxCell id="E0TeUN1zNWyByP_pj73Z-38" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;fillColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="-670" y="6318.91" width="20" height="201.09" as="geometry" />
         </mxCell>
@@ -4221,6 +4215,9 @@
         </mxCell>
         <mxCell id="E0TeUN1zNWyByP_pj73Z-117" value="&lt;div&gt;Mi Bitel&lt;/div&gt;&lt;div&gt;Application&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;fillColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="-920" y="6698.68" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="E0TeUN1zNWyByP_pj73Z-120" value="&lt;p&gt;Questions&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;1, User/Login Esport is only use for login on website ?&lt;/p&gt;&lt;p&gt;- To login require to validate Bitel Client, in order to provide access VIP Version or freemium version&lt;br&gt;&lt;/p&gt;&lt;p&gt;2. access to Game DCB should be the same than on Mi Bitel in case user is Bitel client ?&lt;/p&gt;&lt;p&gt;- as customer require to know balance on their account&lt;/p&gt;&lt;p&gt;- In case user is not Bitel client should have freemium balance&lt;br&gt;&lt;/p&gt;&lt;p&gt;3. access of gaming platfomr require to be the same of Bitel account&lt;br&gt;&lt;/p&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="-1460" y="6350" width="350" height="400" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
