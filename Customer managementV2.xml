@@ -1,6 +1,6 @@
-<mxfile modified="2021-04-16T14:51:31.932Z" host="app.diagrams.net" agent="5.0 (Windows)" etag="pgimXNH2St0h7NxrhLIv" version="14.5.8" type="github">
+<mxfile modified="2021-04-16T16:27:20.879Z" host="app.diagrams.net" agent="5.0 (Windows)" etag="HPZWYU6xLzOkD5Z-ZckH" version="14.5.8" type="github">
   <diagram id="a8ff440f-91d0-836d-069a-c04da7e81235" name="Page-1">
-    <mxGraphModel dx="4212" dy="763" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="4505" dy="898" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -4140,7 +4140,7 @@
           <mxGeometry x="-560" y="6735.12" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="E0TeUN1zNWyByP_pj73Z-45" value="&lt;div&gt;DB&lt;/div&gt;&lt;div&gt;GAMING &lt;br&gt;&lt;/div&gt;&lt;div&gt;PLATFORM&lt;br&gt;&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="-650" y="6907.77" width="90" height="80" as="geometry" />
+          <mxGeometry x="-666" y="6950" width="90" height="80" as="geometry" />
         </mxCell>
         <mxCell id="E0TeUN1zNWyByP_pj73Z-86" value="" style="endArrow=none;html=1;entryX=1;entryY=1;entryDx=0;entryDy=0;" parent="1" target="SXXYIsUc-o3HTAmLAMVv-201" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -4157,9 +4157,9 @@
             <mxPoint x="10" y="6640" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="E0TeUN1zNWyByP_pj73Z-101" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.344;exitY=0.028;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" target="E0TeUN1zNWyByP_pj73Z-99" edge="1" source="E0TeUN1zNWyByP_pj73Z-45">
+        <mxCell id="E0TeUN1zNWyByP_pj73Z-101" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" target="E0TeUN1zNWyByP_pj73Z-99" edge="1" source="E0TeUN1zNWyByP_pj73Z-45">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-620" y="6900" as="sourcePoint" />
+            <mxPoint x="-620" y="6870" as="sourcePoint" />
             <mxPoint x="-566.27" y="6690.0025000000005" as="targetPoint" />
             <Array as="points">
               <mxPoint x="-621" y="6850" />
@@ -4189,23 +4189,17 @@
         <mxCell id="E0TeUN1zNWyByP_pj73Z-120" value="&lt;p&gt;Questions&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;1, User/Login Esport is only use for login on website ?&lt;/p&gt;&lt;p&gt;- To login require to validate Bitel Client, in order to provide access VIP Version or freemium version&lt;br&gt;&lt;/p&gt;&lt;p&gt;2. access to Game DCB should be the same than on Mi Bitel in case user is Bitel client ?&lt;/p&gt;&lt;p&gt;- as customer require to know balance on their account&lt;/p&gt;&lt;p&gt;- In case user is not Bitel client should have freemium balance&lt;br&gt;&lt;/p&gt;&lt;p&gt;3. access of gaming platfomr require to be the same of Bitel account&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;" parent="1" vertex="1">
           <mxGeometry x="-1460" y="6350" width="350" height="400" as="geometry" />
         </mxCell>
-        <mxCell id="E0TeUN1zNWyByP_pj73Z-122" value="" style="endArrow=none;dashed=1;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="E0TeUN1zNWyByP_pj73Z-102" target="E0TeUN1zNWyByP_pj73Z-45" edge="1">
+        <mxCell id="E0TeUN1zNWyByP_pj73Z-122" value="" style="endArrow=none;dashed=1;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="E0TeUN1zNWyByP_pj73Z-102" target="H0vBEERPbGYeu4vYQskC-69" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-290" y="6730" as="sourcePoint" />
-            <mxPoint x="-240" y="6680" as="targetPoint" />
+            <mxPoint x="-700" y="6948" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-730" y="6948" />
+              <mxPoint x="-730" y="6902" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="E0TeUN1zNWyByP_pj73Z-123" value="&lt;div&gt;Mi Bitel Login&lt;/div&gt;&lt;div&gt;grant&amp;nbsp; permission&lt;/div&gt;&lt;div&gt;on Gamming Platform&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="-866.84" y="6768.69" width="140" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="E0TeUN1zNWyByP_pj73Z-136" value="" style="shape=image;html=1;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=1;aspect=fixed;image=img/clipart/Gear_128x128.png;shadow=0;fillColor=#FFFF66;" parent="1" vertex="1">
-          <mxGeometry x="-953.5" y="6766.65" width="32.79" height="38.47" as="geometry" />
-        </mxCell>
-        <mxCell id="E0TeUN1zNWyByP_pj73Z-137" value="Webservice" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-973.5" y="6805.12" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="H0vBEERPbGYeu4vYQskC-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="H0vBEERPbGYeu4vYQskC-8">
           <mxGeometry relative="1" as="geometry">
@@ -4262,7 +4256,25 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="H0vBEERPbGYeu4vYQskC-66" value="&lt;div&gt;Send string&lt;/div&gt;&lt;div&gt;of Mi Bitel User&lt;/div&gt;&lt;div&gt;using platform&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-840" y="6857.77" width="100" height="50" as="geometry" />
+          <mxGeometry x="-510" y="6870" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="H0vBEERPbGYeu4vYQskC-67" value="AP1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FF66FF;" vertex="1" parent="1">
+          <mxGeometry x="-1289.5" y="6685.12" width="44.88" height="44.88" as="geometry" />
+        </mxCell>
+        <mxCell id="H0vBEERPbGYeu4vYQskC-68" value="AP2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FF66FF;" vertex="1" parent="1">
+          <mxGeometry x="-1279.06" y="6763.0599999999995" width="44.88" height="44.88" as="geometry" />
+        </mxCell>
+        <mxCell id="H0vBEERPbGYeu4vYQskC-69" value="&lt;div&gt;Application&lt;/div&gt;&lt;div&gt;Gamming&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;fillColor=#00FF00;" vertex="1" parent="1">
+          <mxGeometry x="-684" y="6880" width="126" height="43.89" as="geometry" />
+        </mxCell>
+        <mxCell id="H0vBEERPbGYeu4vYQskC-72" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;exitX=0.681;exitY=1.042;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="E0TeUN1zNWyByP_pj73Z-44" target="E0TeUN1zNWyByP_pj73Z-45">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-390" y="6670" as="sourcePoint" />
+            <mxPoint x="-340" y="6620" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-519" y="6990" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
