@@ -1,4 +1,4 @@
-<mxfile modified="2021-04-16T14:48:11.702Z" host="app.diagrams.net" agent="5.0 (Windows)" etag="pgxdK7COFGoRDQblblmo" version="14.5.8" type="github">
+<mxfile modified="2021-04-16T14:50:52.663Z" host="app.diagrams.net" agent="5.0 (Windows)" etag="13-aoyWuSkfN1H9JujrZ" version="14.5.8" type="github">
   <diagram id="a8ff440f-91d0-836d-069a-c04da7e81235" name="Page-1">
     <mxGraphModel dx="4212" dy="763" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
       <root>
@@ -1896,8 +1896,8 @@
         <mxCell id="E0TeUN1zNWyByP_pj73Z-19" value="Registration / Login" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" parent="SXXYIsUc-o3HTAmLAMVv-201" vertex="1">
           <mxGeometry x="60" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="E0TeUN1zNWyByP_pj73Z-22" value="&lt;b&gt;VIP Version&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" parent="SXXYIsUc-o3HTAmLAMVv-201" vertex="1">
-          <mxGeometry x="570" width="80" height="20" as="geometry" />
+        <mxCell id="E0TeUN1zNWyByP_pj73Z-22" value="&lt;b&gt;Bitel Version&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" parent="SXXYIsUc-o3HTAmLAMVv-201" vertex="1">
+          <mxGeometry x="565" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="E0TeUN1zNWyByP_pj73Z-21" value="&lt;b&gt;Freemium&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" parent="SXXYIsUc-o3HTAmLAMVv-201" vertex="1">
           <mxGeometry x="1200" width="70" height="20" as="geometry" />
@@ -1966,7 +1966,7 @@
         </mxCell>
         <mxCell id="gIHVHKnXwFZvZhHR3EeS-185" value="" style="endArrow=none;dashed=1;html=1;entryX=0.325;entryY=0.059;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#990099;strokeColor=#990099;" parent="SXXYIsUc-o3HTAmLAMVv-201" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1140" y="340.49999999999983" as="sourcePoint" />
+            <mxPoint x="1140" y="359.5" as="sourcePoint" />
             <mxPoint x="1140.245" y="4.089499999999862" as="targetPoint" />
           </mxGeometry>
         </mxCell>
