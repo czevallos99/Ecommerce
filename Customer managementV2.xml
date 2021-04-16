@@ -1,4 +1,4 @@
-<mxfile modified="2021-04-16T14:50:52.663Z" host="app.diagrams.net" agent="5.0 (Windows)" etag="13-aoyWuSkfN1H9JujrZ" version="14.5.8" type="github">
+<mxfile modified="2021-04-16T14:51:31.932Z" host="app.diagrams.net" agent="5.0 (Windows)" etag="pgimXNH2St0h7NxrhLIv" version="14.5.8" type="github">
   <diagram id="a8ff440f-91d0-836d-069a-c04da7e81235" name="Page-1">
     <mxGraphModel dx="4212" dy="763" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
       <root>
@@ -4199,7 +4199,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="E0TeUN1zNWyByP_pj73Z-123" value="&lt;div&gt;Mi Bitel Login&lt;/div&gt;&lt;div&gt;grant&amp;nbsp; permission&lt;/div&gt;&lt;div&gt;on Gamming Platform&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-903.14" y="6765.12" width="140" height="50" as="geometry" />
+          <mxGeometry x="-866.84" y="6768.69" width="140" height="50" as="geometry" />
         </mxCell>
         <mxCell id="E0TeUN1zNWyByP_pj73Z-136" value="" style="shape=image;html=1;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=1;aspect=fixed;image=img/clipart/Gear_128x128.png;shadow=0;fillColor=#FFFF66;" parent="1" vertex="1">
           <mxGeometry x="-953.5" y="6766.65" width="32.79" height="38.47" as="geometry" />
