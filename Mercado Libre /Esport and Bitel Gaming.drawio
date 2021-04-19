@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-19T17:13:22.912Z" agent="5.0 (Windows)" etag="L8U-R31EULYPJfncftKn" version="14.5.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-19T17:16:42.273Z" agent="5.0 (Windows)" etag="mRoMw42veNQc8HZ6NO_B" version="14.5.8" type="github">
   <diagram id="9RvgvvR_KSKuulvQgbrz" name="Page-1">
     <mxGraphModel dx="3316" dy="-5082" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -126,7 +126,7 @@
         <mxCell id="VdGI68wlmSatKI99WMhj-36" value="&lt;div&gt;Seleccionar&lt;/div&gt;&lt;div&gt;Products from Catalogo&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;fillColor=#FFFFFF;" vertex="1" parent="VdGI68wlmSatKI99WMhj-1">
           <mxGeometry x="1520" y="138.24" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="VdGI68wlmSatKI99WMhj-37" value="&lt;div&gt;Notification of missing Coins and suggest portabiility&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;fillColor=#CC00CC;" vertex="1" parent="VdGI68wlmSatKI99WMhj-1">
+        <mxCell id="VdGI68wlmSatKI99WMhj-37" value="&lt;div&gt;Notification of missing Coins and suggest portabiility&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;fillColor=#FF6666;" vertex="1" parent="VdGI68wlmSatKI99WMhj-1">
           <mxGeometry x="1363" y="105.73" width="110" height="53.02" as="geometry" />
         </mxCell>
         <mxCell id="VdGI68wlmSatKI99WMhj-38" value="&lt;div&gt;Not allow &lt;br&gt;&lt;/div&gt;&lt;div&gt;to exchange coins&lt;/div&gt;&lt;div&gt;Show notification to&lt;/div&gt;&lt;div&gt;do portability to Bitel&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;fillColor=#FF6666;" vertex="1" parent="VdGI68wlmSatKI99WMhj-1">
