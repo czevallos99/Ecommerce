@@ -1,6 +1,6 @@
-<mxfile modified="2021-04-19T14:15:45.026Z" host="app.diagrams.net" agent="5.0 (Windows)" etag="aGweBS3wkOmqV82qymgi" version="14.5.8" type="github">
+<mxfile modified="2021-04-19T14:30:38.445Z" host="app.diagrams.net" agent="5.0 (Windows)" etag="_x6N4-hGT7yS5s0lclf4" version="14.5.8" type="github">
   <diagram id="a8ff440f-91d0-836d-069a-c04da7e81235" name="Page-1">
-    <mxGraphModel dx="3535" dy="636" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="3935" dy="636" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1899,7 +1899,7 @@
         <mxCell id="E0TeUN1zNWyByP_pj73Z-22" value="&lt;b&gt;Bitel Version&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" parent="SXXYIsUc-o3HTAmLAMVv-201" vertex="1">
           <mxGeometry x="565" width="90" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="E0TeUN1zNWyByP_pj73Z-21" value="&lt;b&gt;Freemium&lt;/b&gt; version" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" parent="SXXYIsUc-o3HTAmLAMVv-201" vertex="1">
+        <mxCell id="E0TeUN1zNWyByP_pj73Z-21" value="&lt;b&gt;Freemium version&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" parent="SXXYIsUc-o3HTAmLAMVv-201" vertex="1">
           <mxGeometry x="1175" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="E0TeUN1zNWyByP_pj73Z-24" value="Informative content" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="SXXYIsUc-o3HTAmLAMVv-201" vertex="1">
@@ -1921,10 +1921,7 @@
           <mxGeometry x="1190" y="199.9700000000001" width="120" height="22.25" as="geometry" />
         </mxCell>
         <mxCell id="E0TeUN1zNWyByP_pj73Z-35" value="Create Tournment" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="SXXYIsUc-o3HTAmLAMVv-201" vertex="1">
-          <mxGeometry x="1192" y="230.14000000000004" width="120" height="22.25" as="geometry" />
-        </mxCell>
-        <mxCell id="E0TeUN1zNWyByP_pj73Z-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="SXXYIsUc-o3HTAmLAMVv-201" source="E0TeUN1zNWyByP_pj73Z-36" target="E0TeUN1zNWyByP_pj73Z-88" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="1193" y="230.14000000000004" width="120" height="22.25" as="geometry" />
         </mxCell>
         <mxCell id="E0TeUN1zNWyByP_pj73Z-36" value="Play Game free" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#00FF00;" parent="SXXYIsUc-o3HTAmLAMVv-201" vertex="1">
           <mxGeometry x="1192" y="285.9299999999997" width="120" height="22.25" as="geometry" />
@@ -1983,13 +1980,7 @@
           <mxGeometry x="1520" y="138.24" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="E0TeUN1zNWyByP_pj73Z-88" value="&lt;div&gt;Earn Coin&lt;/div&gt;&lt;div&gt;Gamming Platform&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;fillColor=#FFFFFF;" parent="SXXYIsUc-o3HTAmLAMVv-201" vertex="1">
-          <mxGeometry x="1360" y="270.54" width="80" height="53.02" as="geometry" />
-        </mxCell>
-        <mxCell id="E0TeUN1zNWyByP_pj73Z-93" value="" style="endArrow=none;dashed=1;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="SXXYIsUc-o3HTAmLAMVv-201" target="E0TeUN1zNWyByP_pj73Z-94" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1380" y="280.52999999999975" as="sourcePoint" />
-            <mxPoint x="1380" y="130.5" as="targetPoint" />
-          </mxGeometry>
+          <mxGeometry x="1380" y="105.73000000000002" width="80" height="53.02" as="geometry" />
         </mxCell>
         <mxCell id="E0TeUN1zNWyByP_pj73Z-94" value="&lt;div&gt;Not allow &lt;br&gt;&lt;/div&gt;&lt;div&gt;to exchange coins&lt;/div&gt;&lt;div&gt;Show notification to&lt;/div&gt;&lt;div&gt;do portability to Bitel&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;fillColor=#FF6666;" parent="SXXYIsUc-o3HTAmLAMVv-201" vertex="1">
           <mxGeometry x="1320" y="37.13000000000032" width="120" height="60" as="geometry" />
@@ -2020,7 +2011,7 @@
           <mxGeometry x="842.25" y="176.61" width="80" height="41.38" as="geometry" />
         </mxCell>
         <mxCell id="H0vBEERPbGYeu4vYQskC-3" value="Game - DCB" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#99CCFF;" parent="SXXYIsUc-o3HTAmLAMVv-201" vertex="1">
-          <mxGeometry x="1195" y="258.86" width="100" height="22.02" as="geometry" />
+          <mxGeometry x="1193" y="258.86" width="100" height="22.02" as="geometry" />
         </mxCell>
         <mxCell id="H0vBEERPbGYeu4vYQskC-4" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Gaming Platform&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;fillColor=#99CCFF;" parent="SXXYIsUc-o3HTAmLAMVv-201" vertex="1">
           <mxGeometry x="1192" y="312.5" width="126" height="27.5" as="geometry" />
@@ -2145,11 +2136,8 @@
         <mxCell id="H0vBEERPbGYeu4vYQskC-84" value="WS3" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FF66FF;" parent="SXXYIsUc-o3HTAmLAMVv-201" vertex="1">
           <mxGeometry x="690" y="295.1199999999991" width="44.88" height="44.88" as="geometry" />
         </mxCell>
-        <mxCell id="H0vBEERPbGYeu4vYQskC-85" value="&lt;div&gt;Es posible acumular&lt;/div&gt;&lt;div&gt;Monedas ?&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" parent="SXXYIsUc-o3HTAmLAMVv-201" vertex="1">
-          <mxGeometry x="1370" y="214.23999999999978" width="130" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="H0vBEERPbGYeu4vYQskC-86" value="Gift Shop" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="SXXYIsUc-o3HTAmLAMVv-201" vertex="1">
-          <mxGeometry x="1200" y="344.1400000000003" width="120" height="22.25" as="geometry" />
+          <mxGeometry x="1192" y="344.1400000000003" width="120" height="22.25" as="geometry" />
         </mxCell>
         <mxCell id="H0vBEERPbGYeu4vYQskC-90" value="WS4" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FF66FF;" parent="SXXYIsUc-o3HTAmLAMVv-201" vertex="1">
           <mxGeometry x="510.12" y="291.50999999999897" width="44.88" height="44.88" as="geometry" />
@@ -4357,6 +4345,9 @@
         </mxCell>
         <mxCell id="H0vBEERPbGYeu4vYQskC-97" value="&lt;div&gt;WS &lt;br&gt;&lt;/div&gt;&lt;div&gt;de Validation&lt;/div&gt;&lt;div&gt;Numero&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="-840" y="6850" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="H0vBEERPbGYeu4vYQskC-85" value="&lt;div&gt;Es posible acumular&lt;/div&gt;&lt;div&gt;Monedas ?&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="790" y="6439.11" width="130" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
