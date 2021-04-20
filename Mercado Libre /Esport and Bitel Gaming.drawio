@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-19T19:26:09.622Z" agent="5.0 (Windows)" etag="UIGh6uhhvkqgNK5Rg2DS" version="14.5.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-20T16:18:57.182Z" agent="5.0 (Windows)" etag="_KcO8jx-cz9BuXC6PFxN" version="14.5.8" type="github">
   <diagram id="9RvgvvR_KSKuulvQgbrz" name="Page-1">
     <mxGraphModel dx="3316" dy="-5082" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -121,7 +121,7 @@
           <mxGeometry x="604" y="36.43" width="70" height="33.57" as="geometry" />
         </mxCell>
         <mxCell id="VdGI68wlmSatKI99WMhj-36" value="&lt;div&gt;Seleccionar&lt;/div&gt;&lt;div&gt;Products from Catalogo&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;fillColor=#FFFFFF;" vertex="1" parent="VdGI68wlmSatKI99WMhj-1">
-          <mxGeometry x="1520" y="138.24" width="120" height="60" as="geometry" />
+          <mxGeometry x="1518" y="152.99" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VdGI68wlmSatKI99WMhj-37" value="&lt;div&gt;Notification of missing Coins and suggest portabiility&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;fillColor=#FF6666;" vertex="1" parent="VdGI68wlmSatKI99WMhj-1">
           <mxGeometry x="1363" y="105.73" width="110" height="53.02" as="geometry" />
@@ -134,18 +134,17 @@
             <mxPoint x="540" y="197.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="VdGI68wlmSatKI99WMhj-40" value="&lt;div&gt;Gaming Platform&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;fillColor=#00FF00;" vertex="1" parent="VdGI68wlmSatKI99WMhj-1">
-          <mxGeometry x="337" y="186.25" width="126" height="43.89" as="geometry" />
+        <mxCell id="VdGI68wlmSatKI99WMhj-40" value="&lt;div&gt;Gaming Platform&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;fillColor=#00FF00;" vertex="1" parent="VdGI68wlmSatKI99WMhj-1">
+          <mxGeometry x="338" y="186.25" width="122" height="23.75" as="geometry" />
         </mxCell>
         <mxCell id="VdGI68wlmSatKI99WMhj-42" value="&lt;div&gt;Earn Puntos &amp;gt;&amp;gt;Coins&lt;/div&gt;&lt;div&gt;Gamming &lt;br&gt;&lt;/div&gt;&lt;div&gt;Platform&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;fillColor=#FFFFFF;" vertex="1" parent="VdGI68wlmSatKI99WMhj-1">
-          <mxGeometry x="637.75" y="176.61" width="142.25" height="41.38" as="geometry" />
+          <mxGeometry x="643.75" y="171.61" width="142.25" height="41.38" as="geometry" />
         </mxCell>
         <mxCell id="VdGI68wlmSatKI99WMhj-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="VdGI68wlmSatKI99WMhj-1" source="VdGI68wlmSatKI99WMhj-42" target="VdGI68wlmSatKI99WMhj-36">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="780" y="197" />
-              <mxPoint x="1110" y="197" />
-              <mxPoint x="1110" y="168" />
+              <mxPoint x="1460" y="182" />
+              <mxPoint x="1460" y="183" />
             </Array>
             <mxPoint x="922.25" y="197.29999999999927" as="sourcePoint" />
           </mxGeometry>
@@ -253,16 +252,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="VdGI68wlmSatKI99WMhj-72" value="WS1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FF66FF;" vertex="1" parent="VdGI68wlmSatKI99WMhj-1">
-          <mxGeometry x="191.62" y="76.42999999999938" width="44.88" height="44.88" as="geometry" />
-        </mxCell>
-        <mxCell id="VdGI68wlmSatKI99WMhj-73" value="&lt;div&gt;Numero&lt;/div&gt;&lt;div&gt;telefono&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="VdGI68wlmSatKI99WMhj-1">
-          <mxGeometry x="210" y="46.43000000000029" width="60" height="30" as="geometry" />
+          <mxGeometry x="170.62" y="55.11999999999938" width="44.88" height="44.88" as="geometry" />
         </mxCell>
         <mxCell id="VdGI68wlmSatKI99WMhj-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="VdGI68wlmSatKI99WMhj-1" source="VdGI68wlmSatKI99WMhj-75" target="VdGI68wlmSatKI99WMhj-42">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VdGI68wlmSatKI99WMhj-75" value="Play Games" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;fillColor=#FFFFFF;" vertex="1" parent="VdGI68wlmSatKI99WMhj-1">
-          <mxGeometry x="530" y="176.60999999999967" width="80" height="41.38" as="geometry" />
+          <mxGeometry x="518" y="171.60999999999967" width="80" height="41.38" as="geometry" />
         </mxCell>
         <mxCell id="VdGI68wlmSatKI99WMhj-76" value="WS2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FF66FF;" vertex="1" parent="VdGI68wlmSatKI99WMhj-1">
           <mxGeometry x="120" y="312.4999999999991" width="44.88" height="44.88" as="geometry" />
@@ -271,19 +267,19 @@
           <mxGeometry x="150" y="336.3900000000003" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VdGI68wlmSatKI99WMhj-78" value="&lt;div&gt;Send informatioon &lt;br&gt;&lt;/div&gt;&lt;div&gt;of coins earned&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="VdGI68wlmSatKI99WMhj-1">
-          <mxGeometry x="554" y="324.2399999999998" width="120" height="30" as="geometry" />
+          <mxGeometry x="590" y="329.9999999999998" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="VdGI68wlmSatKI99WMhj-79" value="WS3" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FF66FF;" vertex="1" parent="VdGI68wlmSatKI99WMhj-1">
-          <mxGeometry x="690" y="295.1199999999991" width="44.88" height="44.88" as="geometry" />
+        <mxCell id="VdGI68wlmSatKI99WMhj-79" value="WS4" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FF66FF;" vertex="1" parent="VdGI68wlmSatKI99WMhj-1">
+          <mxGeometry x="717.75" y="306.39" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="VdGI68wlmSatKI99WMhj-80" value="Gift Shop" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="VdGI68wlmSatKI99WMhj-1">
           <mxGeometry x="1192" y="344.1400000000003" width="120" height="22.25" as="geometry" />
         </mxCell>
-        <mxCell id="VdGI68wlmSatKI99WMhj-81" value="WS4" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FF66FF;" vertex="1" parent="VdGI68wlmSatKI99WMhj-1">
+        <mxCell id="VdGI68wlmSatKI99WMhj-81" value="WS3" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FF66FF;" vertex="1" parent="VdGI68wlmSatKI99WMhj-1">
           <mxGeometry x="510.12" y="291.50999999999897" width="44.88" height="44.88" as="geometry" />
         </mxCell>
         <mxCell id="VdGI68wlmSatKI99WMhj-82" value="&lt;div&gt;Sincronizar&lt;/div&gt;&lt;div&gt; coins&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="VdGI68wlmSatKI99WMhj-1">
-          <mxGeometry x="734.88" y="310.00000000000034" width="80" height="30" as="geometry" />
+          <mxGeometry x="762.25" y="310.00000000000034" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VdGI68wlmSatKI99WMhj-83" value="save Coins" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="VdGI68wlmSatKI99WMhj-1">
           <mxGeometry x="437.25" y="295.1199999999998" width="80" height="20" as="geometry" />
@@ -300,9 +296,6 @@
             <mxPoint x="160" y="161.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="VdGI68wlmSatKI99WMhj-86" value="&lt;div&gt;Web view de&lt;/div&gt;&lt;div&gt;Mi Bitel Register&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#FF6666;" vertex="1" parent="VdGI68wlmSatKI99WMhj-1">
-          <mxGeometry x="220" y="221.99000000000058" width="110" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="VdGI68wlmSatKI99WMhj-133" value="&lt;div&gt;details&lt;/div&gt;&lt;div&gt;same of&lt;/div&gt;&lt;div&gt;Esport, &lt;br&gt;&lt;/div&gt;&lt;div&gt;password&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="VdGI68wlmSatKI99WMhj-1">
           <mxGeometry x="250" y="68.86999999999996" width="70" height="60" as="geometry" />
         </mxCell>
@@ -310,7 +303,7 @@
           <mxGeometry x="463" y="97.85999999999967" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="VdGI68wlmSatKI99WMhj-141" value="A" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="VdGI68wlmSatKI99WMhj-1">
-          <mxGeometry x="1300" y="254.85999999999967" width="20" height="20" as="geometry" />
+          <mxGeometry x="1310" y="250.53999999999968" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="VdGI68wlmSatKI99WMhj-142" value="" style="endArrow=classic;html=1;entryX=1;entryY=1.232;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="VdGI68wlmSatKI99WMhj-1" source="VdGI68wlmSatKI99WMhj-45" target="VdGI68wlmSatKI99WMhj-141">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -321,8 +314,20 @@
         <mxCell id="VdGI68wlmSatKI99WMhj-143" value="Numero" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="VdGI68wlmSatKI99WMhj-1">
           <mxGeometry x="336" y="238.85999999999967" width="60" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="VdGI68wlmSatKI99WMhj-146" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="VdGI68wlmSatKI99WMhj-1" source="VdGI68wlmSatKI99WMhj-53" target="VdGI68wlmSatKI99WMhj-72">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="257.5" as="sourcePoint" />
+            <mxPoint x="410" y="207.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VdGI68wlmSatKI99WMhj-147" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=0.678;exitY=0.126;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="VdGI68wlmSatKI99WMhj-1" source="VdGI68wlmSatKI99WMhj-8" target="VdGI68wlmSatKI99WMhj-72">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="157.8389874025679" y="134.70507537548838" as="sourcePoint" />
+            <mxPoint x="161.05999999999995" y="109.99999999999909" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="VdGI68wlmSatKI99WMhj-87" value="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;ESPORT + Gaming Portal &lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="-260.0199999999999" y="6240" width="190" height="20" as="geometry" />
+          <mxGeometry x="-189.99999999999994" y="6230" width="190" height="20" as="geometry" />
         </mxCell>
         <mxCell id="VdGI68wlmSatKI99WMhj-88" value="" style="endArrow=none;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -407,8 +412,8 @@
         <mxCell id="VdGI68wlmSatKI99WMhj-108" value="&lt;div&gt;Mi Bitel&lt;/div&gt;&lt;div&gt;Application&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;fillColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="-920" y="6698.68" width="80" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="VdGI68wlmSatKI99WMhj-109" value="&lt;p&gt;Questions&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;1, User/Login Esport is only use for login on website ?&lt;/p&gt;&lt;p&gt;- To login require to validate Bitel Client, in order to provide access VIP Version or freemium version&lt;br&gt;&lt;/p&gt;&lt;p&gt;2. access to Game DCB should be the same than on Mi Bitel in case user is Bitel client ?&lt;/p&gt;&lt;p&gt;- as customer require to know balance on their account&lt;/p&gt;&lt;p&gt;- In case user is not Bitel client should have freemium balance&lt;br&gt;&lt;/p&gt;&lt;p&gt;3. access of gaming platfomr require to be the same of Bitel account&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;" vertex="1" parent="1">
-          <mxGeometry x="-1460" y="6350" width="350" height="400" as="geometry" />
+        <mxCell id="VdGI68wlmSatKI99WMhj-109" value="Webservices&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;WS1: Validation of Bitel Number nad Bitel account&lt;br&gt;&lt;/p&gt;WS2: Register new Mi Bitel account to DB of Mi Bitel&lt;br&gt;&lt;p&gt;WS3: Save coins of gaming plaform&lt;/p&gt;&lt;p&gt;WS4: Sumar los coins de Bitel aventura con Gaming platform&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="-1460" y="6350" width="350" height="250" as="geometry" />
         </mxCell>
         <mxCell id="VdGI68wlmSatKI99WMhj-110" value="" style="endArrow=none;dashed=1;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="VdGI68wlmSatKI99WMhj-104" target="VdGI68wlmSatKI99WMhj-124">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -457,7 +462,7 @@
             <mxPoint x="-280" y="6620" as="targetPoint" />
             <Array as="points">
               <mxPoint x="-530" y="6600" />
-              <mxPoint x="-834" y="6600" />
+              <mxPoint x="-837" y="6600" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -483,7 +488,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="VdGI68wlmSatKI99WMhj-126" value="Bitel Aventura" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FF6666;fillColor=#99FF99;" vertex="1" parent="1">
-          <mxGeometry x="-392" y="6653.799999999999" width="100" height="44.88" as="geometry" />
+          <mxGeometry x="-358" y="6649.799999999999" width="100" height="44.88" as="geometry" />
         </mxCell>
         <mxCell id="VdGI68wlmSatKI99WMhj-127" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="VdGI68wlmSatKI99WMhj-126" target="VdGI68wlmSatKI99WMhj-42">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -538,6 +543,12 @@
         </mxCell>
         <mxCell id="VdGI68wlmSatKI99WMhj-145" value="&lt;b&gt;+&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="-270" y="6673.8" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="VdGI68wlmSatKI99WMhj-86" value="&lt;div&gt;Web view de&lt;/div&gt;&lt;div&gt;Mi Bitel Register&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#FF6666;" vertex="1" parent="1">
+          <mxGeometry x="-783.5" y="6180.000000000001" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VdGI68wlmSatKI99WMhj-73" value="&lt;div&gt;Numero&lt;/div&gt;&lt;div&gt;telefono&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-890" y="6190" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
