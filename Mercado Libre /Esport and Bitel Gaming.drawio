@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-21T15:45:23.660Z" agent="5.0 (Windows)" etag="DgD42M4rBsc_2JeQtKFq" version="14.5.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-21T16:02:56.638Z" agent="5.0 (Windows)" etag="PjJvHQRi8ixjopO_Cp5a" version="14.5.8" type="github">
   <diagram id="9RvgvvR_KSKuulvQgbrz" name="Page-1">
     <mxGraphModel dx="2836" dy="-5082" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -278,8 +278,8 @@
             <mxPoint x="160" y="161.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="VdGI68wlmSatKI99WMhj-133" value="&lt;div&gt;details&lt;/div&gt;&lt;div&gt;same of&lt;/div&gt;&lt;div&gt;Esport, &lt;br&gt;&lt;/div&gt;&lt;div&gt;password&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" parent="VdGI68wlmSatKI99WMhj-1" vertex="1">
-          <mxGeometry x="250" y="68.86999999999996" width="70" height="60" as="geometry" />
+        <mxCell id="VdGI68wlmSatKI99WMhj-133" value="Opt 1&lt;br&gt;&lt;div&gt;same access&lt;/div&gt;&lt;div&gt;of Esport, &lt;br&gt;&lt;/div&gt;&lt;div&gt;password&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" parent="VdGI68wlmSatKI99WMhj-1" vertex="1">
+          <mxGeometry x="222" y="28.869999999999962" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VdGI68wlmSatKI99WMhj-140" value="A" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" parent="VdGI68wlmSatKI99WMhj-1" vertex="1">
           <mxGeometry x="463" y="97.85999999999967" width="20" height="20" as="geometry" />
@@ -558,12 +558,6 @@
             <Array as="points">
               <mxPoint x="359" y="6590" />
             </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="VdGI68wlmSatKI99WMhj-134" value="" style="endArrow=classic;html=1;exitX=0.671;exitY=1.02;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="VdGI68wlmSatKI99WMhj-133" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-310" y="6610" as="sourcePoint" />
-            <mxPoint x="-713" y="6480" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="VdGI68wlmSatKI99WMhj-144" value="&lt;div&gt;habilitar con&lt;/div&gt;&lt;div&gt;Numero de Bitel&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" parent="1" vertex="1">
