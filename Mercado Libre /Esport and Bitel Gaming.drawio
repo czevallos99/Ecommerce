@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-04-21T16:02:56.638Z" agent="5.0 (Windows)" etag="PjJvHQRi8ixjopO_Cp5a" version="14.5.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-21T16:21:57.996Z" agent="5.0 (Windows)" etag="C38PhAOMiRVj_1DVq2d5" version="14.5.8" type="github">
   <diagram id="9RvgvvR_KSKuulvQgbrz" name="Page-1">
-    <mxGraphModel dx="2836" dy="-5082" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2600" dy="-5235" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -71,7 +71,7 @@
           <mxGeometry x="1193" y="230.14000000000004" width="120" height="22.25" as="geometry" />
         </mxCell>
         <mxCell id="VdGI68wlmSatKI99WMhj-21" value="Play Game free" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#00FF00;" parent="VdGI68wlmSatKI99WMhj-1" vertex="1">
-          <mxGeometry x="1194" y="317.7499999999997" width="120" height="22.25" as="geometry" />
+          <mxGeometry x="1194" y="317.75" width="116" height="22.25" as="geometry" />
         </mxCell>
         <mxCell id="VdGI68wlmSatKI99WMhj-22" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;fillColor=#FFFFFF;" parent="VdGI68wlmSatKI99WMhj-1" vertex="1">
           <mxGeometry x="1172" y="190" width="20" height="170" as="geometry" />
@@ -146,7 +146,7 @@
           <mxGeometry x="1193" y="258.86" width="100" height="22.02" as="geometry" />
         </mxCell>
         <mxCell id="VdGI68wlmSatKI99WMhj-46" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Gaming Platform&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;fillColor=#99CCFF;" parent="VdGI68wlmSatKI99WMhj-1" vertex="1">
-          <mxGeometry x="1194" y="291.37" width="126" height="27.5" as="geometry" />
+          <mxGeometry x="1194" y="291.37" width="116" height="27.5" as="geometry" />
         </mxCell>
         <mxCell id="VdGI68wlmSatKI99WMhj-47" value="Ruleta" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="VdGI68wlmSatKI99WMhj-1" vertex="1">
           <mxGeometry x="1670" y="150" width="54.63" height="40" as="geometry" />
