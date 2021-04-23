@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-23T13:59:18.494Z" agent="5.0 (Windows)" etag="qexakAl5akpMh86ks3ah" version="14.5.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-23T14:00:36.892Z" agent="5.0 (Windows)" etag="iasVOjPKSdk3nW6uYA89" version="14.5.8" type="github">
   <diagram id="9RvgvvR_KSKuulvQgbrz" name="Page-1">
     <mxGraphModel dx="3501" dy="-3828" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -886,7 +886,7 @@
           <mxGeometry x="1410" y="120.30000000000018" width="41.13" height="41.13" as="geometry" />
         </mxCell>
         <mxCell id="b3s5XIYNYocIyZB9M6hi-105" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;ESPORT + Gaming Portal&lt;/font&gt; V3&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
-          <mxGeometry x="-289.99999999999994" y="5010" width="200" height="20" as="geometry" />
+          <mxGeometry x="-219.99999999999994" y="5110" width="200" height="20" as="geometry" />
         </mxCell>
         <mxCell id="b3s5XIYNYocIyZB9M6hi-106" value="" style="endArrow=none;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
