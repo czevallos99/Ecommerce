@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-26T20:50:38.847Z" agent="5.0 (Windows)" etag="TcElg_AOx4z6F5KIo9DK" version="14.5.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-26T21:53:39.771Z" agent="5.0 (Windows)" etag="DbFZbXQp9hOrytRyob8R" version="14.5.8" type="github">
   <diagram id="9RvgvvR_KSKuulvQgbrz" name="Page-1">
     <mxGraphModel dx="3719" dy="-3593" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -779,19 +779,10 @@
           <mxGeometry x="172.91" y="96.25" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="b3s5XIYNYocIyZB9M6hi-199" value="" style="rounded=1;whiteSpace=wrap;html=1;rotation=90;fillColor=#FFFF66;" parent="b3s5XIYNYocIyZB9M6hi-1" vertex="1">
-          <mxGeometry x="1408.59" y="159.53" width="120" height="57.18" as="geometry" />
+          <mxGeometry x="1422.88" y="159.23" width="91.41" height="57.18" as="geometry" />
         </mxCell>
         <mxCell id="b3s5XIYNYocIyZB9M6hi-202" value="&lt;b&gt;Login&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" parent="b3s5XIYNYocIyZB9M6hi-1" vertex="1">
           <mxGeometry x="1442" y="128" width="50" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="b3s5XIYNYocIyZB9M6hi-203" value="" style="endArrow=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="b3s5XIYNYocIyZB9M6hi-1" source="b3s5XIYNYocIyZB9M6hi-199" target="b3s5XIYNYocIyZB9M6hi-199" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1349.06" y="191.69999999999982" as="sourcePoint" />
-            <mxPoint x="1310" y="-114.88000000000011" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="b3s5XIYNYocIyZB9M6hi-204" value="&lt;font style=&quot;font-size: 10px&quot;&gt;Validation&lt;br&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;MISDN&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" parent="b3s5XIYNYocIyZB9M6hi-1" vertex="1">
-          <mxGeometry x="1439.0600000000002" y="148" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="b3s5XIYNYocIyZB9M6hi-116" value="&lt;div&gt;DB&lt;/div&gt;&lt;div&gt;GAMING &lt;br&gt;&lt;/div&gt;&lt;div&gt;PLATFORM&lt;br&gt;&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#FFFFFF;" parent="b3s5XIYNYocIyZB9M6hi-1" vertex="1">
           <mxGeometry x="52.91" y="279.9999999999999" width="90" height="80" as="geometry" />
@@ -880,7 +871,7 @@
           <mxGeometry x="540" y="242.75" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="-7XISx5TI7EFp9L3KRbe-59" value="&lt;div&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;Mi Bitel&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;Account&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="b3s5XIYNYocIyZB9M6hi-1">
-          <mxGeometry x="1444.06" y="198.1199999999999" width="50" height="40" as="geometry" />
+          <mxGeometry x="1444.06" y="161.6199999999999" width="50" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-7XISx5TI7EFp9L3KRbe-66" value="&lt;div&gt;earn &lt;br&gt;&lt;/div&gt;&lt;div&gt;Coins&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="b3s5XIYNYocIyZB9M6hi-1">
           <mxGeometry x="1712.2199999999998" y="272.75" width="50" height="30" as="geometry" />
@@ -1078,11 +1069,13 @@
         <mxCell id="b3s5XIYNYocIyZB9M6hi-159" value="WEB GAMMING.PE" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;rotation=-90;" parent="1" vertex="1">
           <mxGeometry x="-1115.49" y="5251" width="130" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="b3s5XIYNYocIyZB9M6hi-162" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="b3s5XIYNYocIyZB9M6hi-4" target="b3s5XIYNYocIyZB9M6hi-8" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="-7XISx5TI7EFp9L3KRbe-107" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="b3s5XIYNYocIyZB9M6hi-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-890" y="5120" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="b3s5XIYNYocIyZB9M6hi-4" value="User" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="-989.3499999999999" y="5096" width="39.87" height="39.87" as="geometry" />
+          <mxGeometry x="-1012.4099999999999" y="5101.07" width="39.87" height="39.87" as="geometry" />
         </mxCell>
         <mxCell id="b3s5XIYNYocIyZB9M6hi-66" value="WS1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FF66FF;" parent="1" vertex="1">
           <mxGeometry x="-540" y="5119.39" width="34.61" height="34.61" as="geometry" />
@@ -1091,16 +1084,21 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="b3s5XIYNYocIyZB9M6hi-5" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-755.12" y="5087.81" width="81" height="50.32" as="geometry" />
+          <mxGeometry x="-755.12" y="5089.81" width="81" height="50.32" as="geometry" />
         </mxCell>
         <mxCell id="b3s5XIYNYocIyZB9M6hi-163" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.042;entryY=0.611;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="b3s5XIYNYocIyZB9M6hi-8" target="b3s5XIYNYocIyZB9M6hi-6" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-787" y="5121" />
+              <mxPoint x="-787" y="5116" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="b3s5XIYNYocIyZB9M6hi-164" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="b3s5XIYNYocIyZB9M6hi-8" target="b3s5XIYNYocIyZB9M6hi-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="b3s5XIYNYocIyZB9M6hi-8" value="Register" style="rhombus;whiteSpace=wrap;html=1;fillColor=#FFFF99;" parent="1" vertex="1">
-          <mxGeometry x="-888.5" y="5081.92" width="61" height="68.03" as="geometry" />
+          <mxGeometry x="-888.5" y="5086.92" width="61" height="68.03" as="geometry" />
         </mxCell>
         <mxCell id="b3s5XIYNYocIyZB9M6hi-179" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="b3s5XIYNYocIyZB9M6hi-9" edge="1" target="b3s5XIYNYocIyZB9M6hi-114">
           <mxGeometry relative="1" as="geometry">
@@ -1177,18 +1175,23 @@
         <mxCell id="b3s5XIYNYocIyZB9M6hi-177" value="If MISDN not belong to Bitel , OTP validation by email" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="-1520" y="5176.81" width="300" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="b3s5XIYNYocIyZB9M6hi-183" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" parent="1" source="b3s5XIYNYocIyZB9M6hi-181" target="b3s5XIYNYocIyZB9M6hi-9" edge="1">
+        <mxCell id="b3s5XIYNYocIyZB9M6hi-183" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="b3s5XIYNYocIyZB9M6hi-181" target="-7XISx5TI7EFp9L3KRbe-104" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-840" y="5320" as="targetPoint" />
             <Array as="points">
               <mxPoint x="-840" y="5230" />
+              <mxPoint x="-840" y="5290" />
+              <mxPoint x="-907" y="5290" />
+              <mxPoint x="-907" y="5287" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="9JJmAIcKOB1YmbiyH6PI-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="b3s5XIYNYocIyZB9M6hi-181" target="b3s5XIYNYocIyZB9M6hi-187" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="9JJmAIcKOB1YmbiyH6PI-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="b3s5XIYNYocIyZB9M6hi-181" target="b3s5XIYNYocIyZB9M6hi-187" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-600" y="5231" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="b3s5XIYNYocIyZB9M6hi-181" value="&lt;div&gt;Bitel&lt;/div&gt;&lt;div&gt;Number&lt;br&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#FFFF99;" parent="1" vertex="1">
+        <mxCell id="b3s5XIYNYocIyZB9M6hi-181" value="&lt;div&gt;Mi Bitel&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#FFFF99;" parent="1" vertex="1">
           <mxGeometry x="-744.91" y="5196" width="61" height="68.03" as="geometry" />
         </mxCell>
         <mxCell id="b3s5XIYNYocIyZB9M6hi-184" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" parent="1" vertex="1">
@@ -1207,10 +1210,10 @@
           <mxGeometry x="-50" y="5210.000000000001" width="70" height="41" as="geometry" />
         </mxCell>
         <mxCell id="b3s5XIYNYocIyZB9M6hi-188" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-675.79" y="5236.81" width="30" height="20" as="geometry" />
+          <mxGeometry x="-590" y="5241" width="30" height="20" as="geometry" />
         </mxCell>
         <mxCell id="b3s5XIYNYocIyZB9M6hi-190" value="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;Webservices&lt;/b&gt;&lt;/font&gt;&lt;p&gt;WS1: Validation of Bitel Number&lt;br&gt;&lt;/p&gt;&lt;div&gt;WS2: Transfer and input Bitel Number into DCB validation&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;WS3: Integration MPS to purchase service with Bitel Balance&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;WS4: Transfer and input Bitel Number into Gamming Platform&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;WS5: Integration MPS to purchase subscription&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;WS6: Integrate function of Header enrichment&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;WS7: Validation Mi Bitel Account&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;WS8: Save cooins from gaming platform on DB MI Bitel&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;WS9: Mi Bitel user be able to access GiftShop automatically&lt;/div&gt;&lt;div&gt; (Backend validation account)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;WS10: Show total coins earned for each user en base of Biten Number&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;" parent="1" vertex="1">
-          <mxGeometry x="-1604.06" y="5470" width="414.06" height="310" as="geometry" />
+          <mxGeometry x="-1604.06" y="5470" width="414.06" height="330" as="geometry" />
         </mxCell>
         <mxCell id="b3s5XIYNYocIyZB9M6hi-191" value="" style="endArrow=none;html=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -1270,7 +1273,7 @@
           <mxGeometry x="-790" y="5141" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9JJmAIcKOB1YmbiyH6PI-8" value="Bitel Gaming" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-1007" y="5251" width="90" height="20" as="geometry" />
+          <mxGeometry x="-1007.91" y="5366.09" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="b3s5XIYNYocIyZB9M6hi-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="b3s5XIYNYocIyZB9M6hi-18" target="b3s5XIYNYocIyZB9M6hi-28" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -1449,10 +1452,23 @@
           <mxGeometry x="-712.29" y="4970" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="-7XISx5TI7EFp9L3KRbe-101" value="&lt;b&gt;Link to register Mi Bitel = Bitel ID&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-782.9100000000001" y="5000" width="220" height="20" as="geometry" />
+          <mxGeometry x="-765.0000000000001" y="5009.6" width="220" height="20" as="geometry" />
         </mxCell>
         <mxCell id="-7XISx5TI7EFp9L3KRbe-102" value="&lt;div&gt;DDBB &lt;br&gt;&lt;/div&gt;&lt;div&gt;ESPORT&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1047.5" y="4820" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-7XISx5TI7EFp9L3KRbe-105" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="-7XISx5TI7EFp9L3KRbe-104" target="b3s5XIYNYocIyZB9M6hi-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-943" y="5347" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-7XISx5TI7EFp9L3KRbe-104" value="&lt;div&gt;Llenar&lt;/div&gt;&lt;div&gt;- email&lt;/div&gt;&lt;div&gt;- user&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-995.5" y="5259.540000000001" width="90" height="55.19" as="geometry" />
+        </mxCell>
+        <mxCell id="-7XISx5TI7EFp9L3KRbe-111" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-910" y="5089.81" width="30" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
