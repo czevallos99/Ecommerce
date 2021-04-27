@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-27T12:34:55.243Z" agent="5.0 (Windows)" etag="Np7UNyzbbv1aswUHvZb2" version="14.5.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-27T12:35:57.501Z" agent="5.0 (Windows)" etag="IdFg7GFJj1DJZIsHRHR-" version="14.5.8" type="github">
   <diagram id="9RvgvvR_KSKuulvQgbrz" name="Page-1">
     <mxGraphModel dx="3719" dy="-3593" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -875,7 +875,7 @@
           <mxGeometry x="1444.06" y="161.6199999999999" width="50" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-7XISx5TI7EFp9L3KRbe-66" value="&lt;div&gt;earn &lt;br&gt;&lt;/div&gt;&lt;div&gt;Coins&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="b3s5XIYNYocIyZB9M6hi-1">
-          <mxGeometry x="1712.2199999999998" y="272.75" width="50" height="30" as="geometry" />
+          <mxGeometry x="1691.9099999999999" y="218.03" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="-7XISx5TI7EFp9L3KRbe-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="b3s5XIYNYocIyZB9M6hi-1" source="-7XISx5TI7EFp9L3KRbe-67" target="b3s5XIYNYocIyZB9M6hi-35">
           <mxGeometry relative="1" as="geometry" />
@@ -936,6 +936,9 @@
         <mxCell id="-7XISx5TI7EFp9L3KRbe-188" value="Login" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="b3s5XIYNYocIyZB9M6hi-1">
           <mxGeometry x="352.35999999999996" y="277" width="47.09" height="37.12" as="geometry" />
         </mxCell>
+        <mxCell id="b3s5XIYNYocIyZB9M6hi-118" value="&lt;div&gt;DB&lt;/div&gt;&lt;div&gt;Giftshop&lt;br&gt;&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#FFFFFF;" parent="b3s5XIYNYocIyZB9M6hi-1" vertex="1">
+          <mxGeometry x="1746.46" y="286.75" width="71" height="64" as="geometry" />
+        </mxCell>
         <mxCell id="b3s5XIYNYocIyZB9M6hi-105" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;ESPORT + Gaming Portal&lt;/font&gt; V3 26.04&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="-289.99999999999994" y="4960" width="240" height="20" as="geometry" />
         </mxCell>
@@ -970,9 +973,6 @@
             <mxPoint x="800" y="5970" as="sourcePoint" />
             <mxPoint x="517.09" y="5753" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="b3s5XIYNYocIyZB9M6hi-118" value="&lt;div&gt;DB&lt;/div&gt;&lt;div&gt;GIFT SHOW&lt;br&gt;&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="723" y="5788.119999999999" width="71" height="80" as="geometry" />
         </mxCell>
         <mxCell id="b3s5XIYNYocIyZB9M6hi-119" value="" style="endArrow=none;dashed=1;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="b3s5XIYNYocIyZB9M6hi-118" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
