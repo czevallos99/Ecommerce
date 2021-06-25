@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-06-24T21:41:36.885Z" agent="5.0 (Windows)" etag="OYDxOSCD4Qm1y7X20fgG" version="14.5.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-25T03:06:18.016Z" agent="5.0 (Windows)" etag="HhSPEIHT3ykh-7fBPOt6" version="14.5.8" type="github">
   <diagram id="9RvgvvR_KSKuulvQgbrz" name="Page-1">
-    <mxGraphModel dx="3719" dy="-3607" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3316" dy="-3927" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -864,8 +864,8 @@
         <mxCell id="-E2XZPSsiI8YJS9_9fjN-24" value="&lt;div&gt;Transfer Parameters :&lt;/div&gt;&lt;div&gt;MISDN/Token&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" parent="b3s5XIYNYocIyZB9M6hi-1" vertex="1">
           <mxGeometry x="1298.8699999999997" y="188.6199999999999" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="W4cDjvl7_dK3hAXPdtF8-25" value="WS" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" parent="b3s5XIYNYocIyZB9M6hi-1" vertex="1">
-          <mxGeometry x="1512.45" y="232.75" width="40" height="20" as="geometry" />
+        <mxCell id="W4cDjvl7_dK3hAXPdtF8-25" value="&lt;div&gt;WS&lt;/div&gt;&lt;div&gt;Done&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" parent="b3s5XIYNYocIyZB9M6hi-1" vertex="1">
+          <mxGeometry x="1507.45" y="227.75" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="b3s5XIYNYocIyZB9M6hi-105" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;ESPORT + Gaming Portal&lt;/font&gt; V4 28.04&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="-289.99999999999994" y="4960" width="240" height="20" as="geometry" />
