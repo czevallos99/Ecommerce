@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-21T20:40:51.287Z" agent="5.0 (Windows)" etag="tTffP6GwoseG9vz-iHXr" version="14.9.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-21T20:46:09.560Z" agent="5.0 (Windows)" etag="ag50Y-HZQBYI2CX7Oj1k" version="14.9.0" type="github">
   <diagram id="y0MvCqDMI1tPlNCTdOtr" name="Page-1">
     <mxGraphModel dx="4143" dy="1918" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -4470,8 +4470,8 @@
         <mxCell id="UPJ3jDpkzVMN4NyTXjhK-2211" value="Email" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="-317.0900000000002" y="447.92" width="111.36" height="25.74" as="geometry" />
         </mxCell>
-        <mxCell id="C7UsMdnBU55S1JH8ybPj-52" value="&lt;font style=&quot;font-size: 24px&quot;&gt;&lt;b&gt;BITEL E-SPORT&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
-          <mxGeometry x="-1653.59" y="4790" width="200" height="20" as="geometry" />
+        <mxCell id="C7UsMdnBU55S1JH8ybPj-52" value="&lt;font style=&quot;font-size: 24px&quot;&gt;&lt;b&gt;BITEL E-SPORT / GIFTSHOP&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
+          <mxGeometry x="-1717.52" y="4781.09" width="340" height="20" as="geometry" />
         </mxCell>
         <mxCell id="sbmlcpLjMZlKbOsre-f8-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="263.88" y="1046.1100000000001" width="730" height="1741.2" as="geometry" />
@@ -4491,8 +4491,8 @@
         <mxCell id="Vlhdp28OSHyVcGFcQC_W-5" value="" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="-1764.66" y="5141.71" width="153.98" height="80.87" as="geometry" />
         </mxCell>
-        <mxCell id="Vlhdp28OSHyVcGFcQC_W-6" value="Domain: www.bitelgaiming.pe" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
-          <mxGeometry x="-1928.66" y="5101.97" width="170" height="20" as="geometry" />
+        <mxCell id="Vlhdp28OSHyVcGFcQC_W-6" value="Domain: Regalos.bitel.com.pe" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
+          <mxGeometry x="-2103.66" y="5093.68" width="180" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Vlhdp28OSHyVcGFcQC_W-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.508;exitY=0.089;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;exitPerimeter=0;" parent="1" source="Vlhdp28OSHyVcGFcQC_W-17" target="Vlhdp28OSHyVcGFcQC_W-26" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -7284,10 +7284,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Ohl4RpSw4Qa_XPE9quEP-3" value="181.176.242.225" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-2040.7" y="5241" width="120" height="20" as="geometry" />
+          <mxGeometry x="-1970.69" y="5234.87" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Ohl4RpSw4Qa_XPE9quEP-4" value="LB: 10.121.8.45" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-1686.23" y="5230.43" width="110" height="20" as="geometry" />
+        <mxCell id="Ohl4RpSw4Qa_XPE9quEP-4" value="LB: 10.121.8.45:80" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-1715.02" y="5230.43" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Ohl4RpSw4Qa_XPE9quEP-5" value="&lt;div&gt;&lt;b&gt;&amp;nbsp;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;10.121.6.36&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="-1544.3999999999999" y="5006.639999999999" width="110" height="40" as="geometry" />
@@ -7759,6 +7759,15 @@
         </mxCell>
         <mxCell id="i8MEiVFbWU9CTo45OPOG-197" value="Editar" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="3449.9999999999995" y="5393.590000000001" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="vibf8ZUdYwwzNkpDraMn-1" value="www.bitelgaming.pe" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-2112.98" y="5234.87" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="vibf8ZUdYwwzNkpDraMn-3" value="LB: 10.121.8.45:8081" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-1742.01" y="5079.240000000001" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="vibf8ZUdYwwzNkpDraMn-4" value="Public Ip Pending" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-1906.69" y="5082.58" width="110" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
