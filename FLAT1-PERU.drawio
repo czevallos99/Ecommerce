@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-16T11:30:39.083Z" agent="5.0 (Windows)" etag="YYISj3F179uRzYIuQEfD" version="20.8.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-16T11:31:48.150Z" agent="5.0 (Windows)" etag="eC5hYIc5ImFsHS_Lfz8M" version="20.8.5" type="github">
   <diagram id="y0MvCqDMI1tPlNCTdOtr" name="Page-1">
     <mxGraphModel dx="6354" dy="2766" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -235,7 +235,7 @@
         <mxCell id="HTa7G4qSwP5oYnX5caP1-72" value="Distrito disponible V" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1108.06" y="1667.9" width="128.68" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="mVTbrcH1SR3zDorAHqVb-15" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="mVTbrcH1SR3zDorAHqVb-15" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#B9E0A5;" parent="1" vertex="1">
           <mxGeometry x="-329.54999999999995" y="-670" width="1100" height="798" as="geometry" />
         </mxCell>
         <mxCell id="mVTbrcH1SR3zDorAHqVb-16" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=90;" parent="1" vertex="1">
@@ -412,7 +412,7 @@
         <mxCell id="mVTbrcH1SR3zDorAHqVb-73" value="&lt;font style=&quot;font-size: 18px&quot;&gt;PASADIZO&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="82.95000000000005" y="99.5" width="110" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="mVTbrcH1SR3zDorAHqVb-75" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="mVTbrcH1SR3zDorAHqVb-75" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#3333FF;fillColor=#66B2FF;" parent="1" vertex="1">
           <mxGeometry x="1345.45" y="-678.68" width="1100" height="798" as="geometry" />
         </mxCell>
         <mxCell id="mVTbrcH1SR3zDorAHqVb-76" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=90;" parent="1" vertex="1">
